@@ -1,0 +1,28 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "139425227",
+            "title": "HSN Live",
+            "date_created": "1517274763",
+            "loginId": "1758927",
+            "tags": null,
+            "description": "test",
+            "asset": {
+                "type": "mp4",
+                "type_stream": "live",
+                "hlsUrl": "https:\/\/c4af3793bf76b33c.mediapackage.us-west-2.amazonaws.com\/out\/v1\/4662296a0d7e44078873cc135b0d9c02\/index.m3u8",
+                "dashUrl": "https:\/\/c4af3793bf76b33c.mediapackage.us-west-2.amazonaws.com\/out\/v1\/e61e91b074ab4922bed66f36bd65bf03\/index.mpd",
+                "live_status": "LIVE_STARTED",
+                "live_quality": "1080",
+                "status_url": "\/\/stage.tvpage.com\/api\/videos\/live\/status\/1758927\/139425227",
+                "uploadAsset": false,
+                "quality": "",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1758927\/canvas\/1280\/719\/756926775-011280720.jpg",
+                "sources": []
+            },
+            "parentId": "139425228",
+            "url": "\/live-stream\/hsn-live\/139425228-139425227"
+        }
+    ]
+}
