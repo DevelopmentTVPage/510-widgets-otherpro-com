@@ -14,7 +14,8 @@
             "video_item_text_align": "center"
         },
         ".video-item-image-icon": {
-            "video_item_image_icon_background_color": "rgba(0, 71, 253, 1)"
+            "video_item_image_icon_background_color": "rgba(0, 71, 253, 1)",
+            "video_item_image_icon_border_radius": "50%"
         },
         ".slick-dots li button": {
             "carousel_dot_background_color": "rgba(0, 75, 232, 1)",
