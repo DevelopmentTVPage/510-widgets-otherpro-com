@@ -1,0 +1,15 @@
+{
+    "title": "Other Pr",
+    "baseURL": "https:\/\/widgets.otherpro.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758927",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "otherpro.com"
+    }
+}
