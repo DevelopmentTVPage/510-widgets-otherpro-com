@@ -11,13 +11,15 @@
             "asset": {
                 "type": "mp4",
                 "type_stream": "live",
-                "sources": [],
                 "hlsUrl": "https:\/\/c4af3793bf76b33c.mediapackage.us-west-2.amazonaws.com\/out\/v1\/483eb9fabbad4a15ae8d104b1205e500\/index.m3u8",
                 "dashUrl": "https:\/\/c4af3793bf76b33c.mediapackage.us-west-2.amazonaws.com\/out\/v1\/7a7c5d83cfb04a3e8343d36477f462da\/index.mpd",
                 "live_status": "LIVE_STOPPED",
                 "live_quality": "1080",
                 "status_url": "\/\/stage.tvpage.com\/api\/videos\/live\/status\/1758927\/139425486",
-                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1758927\/canvas\/1280\/719\/508231139-011280720.jpg"
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1758927\/canvas\/1280\/719\/314062263-011280720.jpg",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": []
             },
             "parentId": "139425228",
             "url": "\/live-stream\/livestream\/139425228-139425486"
