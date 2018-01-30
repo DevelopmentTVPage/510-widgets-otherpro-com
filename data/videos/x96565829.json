@@ -1,0 +1,64 @@
+{
+    "title": "Sheet Pan Shrimp Bake - Good Food Fast",
+    "description": "Recipe for a sheet pan shrimp bake. Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya",
+    "referenceId": "D5nfnt68IVQ",
+    "date_created": "1496757867",
+    "date_modified": "1499888285",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "42",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "156",
+    "CVV_VI": "15",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "style": null,
+    "living": "food",
+    "category6": "kitchen_food",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": "good_food_fast",
+    "gemstone_guide": null,
+    "id": "96565829",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Good-Food-Fast-Sheet-Pan-Shrimp-Bake-VD11969",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/D5nfnt68IVQ\/hqdefault.jpg",
+        "uploadDate": 1496757867,
+        "videoId": "D5nfnt68IVQ",
+        "title": "HSN | Good Food Fast: Sheet Pan Shrimp Bake VD11969",
+        "description": "Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya\n\nLearn how to make our recipes.",
+        "author": "HSN",
+        "mediaDuration": 42,
+        "prettyDuration": "00:00:42",
+        "views": "21",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-19"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-11-23"
+        }
+    },
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 1593.4628,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "228"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 350.58893
+}

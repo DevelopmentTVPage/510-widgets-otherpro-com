@@ -1,0 +1,62 @@
+{
+    "title": "Bean and Vegetable - Monthly Special",
+    "description": "Andrew Lessman's November Monthly Special - Bean and Vegetable\nShop Andrew Lessman's Monthly Specials: https:\/\/www.hsn.com\/shop\/vitamins-and-supplements-monthly-special\/hf0035-16216",
+    "referenceId": "STj12sQPPPY",
+    "date_created": "1509465552",
+    "date_modified": "1512082108",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "312",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "55",
+    "CVV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": null,
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "127157734",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Andrew-Lessman-Monthly-Special-Bean-and-Vegetable",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/STj12sQPPPY\/maxresdefault.jpg",
+        "uploadDate": 1509465552,
+        "videoId": "STj12sQPPPY",
+        "title": "Andrew Lessman Monthly Special  Bean and Vegetable",
+        "description": "Andrew Lessmans November Monthly Special - Bean and Vegetable",
+        "author": "HSNtv",
+        "mediaDuration": 312,
+        "prettyDuration": "00:05:12",
+        "views": "3",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-11-14"
+        },
+        "CVV_VI": {
+            "conversion_score": {
+                "lastUpdatedDate": "2017-11-17"
+            }
+        }
+    },
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": ""
+}

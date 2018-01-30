@@ -1,0 +1,100 @@
+{
+    "title": "Chaco Canyon Southwest 3-Row Liquid Silver 18 Necklace.mp4",
+    "description": "Chaco Canyon Southwest 3-Row Liquid Silver 18 Necklace",
+    "referenceId": "213d62fa649aaf2a06bd31c580e91d65",
+    "date_created": "1498599114",
+    "date_modified": "1498599918",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "343",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "101571317",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Chaco-Canyon-Southwest-3-Row-Liquid-Silver-18-Necklace-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "343",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "343",
+        "prettyDuration": "00:05:43",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/101571317\/3093b\/thumb-213d62fa649aaf2a06bd31c580e91d65-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/101571317\/3093b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/101571317\/3093b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571317\/3093b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571317\/3093b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571317\/3093b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571317\/3093b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571317\/3093b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "20"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 9580.168,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "116"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 19480.812
+}

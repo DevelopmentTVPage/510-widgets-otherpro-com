@@ -1,0 +1,100 @@
+{
+    "title": "Teint Idole Ultra 24H SPF 15 Makeup - 250 Bisque W.mp4",
+    "description": "Teint Idole Ultra 24H SPF 15 Makeup - 250 Bisque W",
+    "referenceId": "30eb985711ee1616bd0ea390935db692",
+    "date_created": "1497654975",
+    "date_modified": "1497655082",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productinfo",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99349699",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Teint-Idole-Ultra-24H-SPF-15-Makeup-250-Bisque-W-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "30",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99349699\/7b9cd\/thumb-30eb985711ee1616bd0ea390935db692-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99349699\/7b9cd\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99349699\/7b9cd\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349699\/7b9cd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349699\/7b9cd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349699\/7b9cd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349699\/7b9cd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349699\/7b9cd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 5900.1587,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "134"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 21481.475
+}

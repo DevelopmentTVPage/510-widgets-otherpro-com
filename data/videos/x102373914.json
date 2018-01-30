@@ -1,0 +1,99 @@
+{
+    "title": "ProForm&reg; Jump-N-Step Mini Trampoline and Step Platform with Resistance Bands and 6 Workout DVDs.mp4",
+    "description": "ProForm&reg; Jump-N-Step Mini Trampoline and Step Platform with Resistance Bands and 6 Workout DVDs",
+    "referenceId": "b305bcd23c51b659db79aa59d94651a3",
+    "date_created": "1498846313",
+    "date_modified": "1498848106",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "3143",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "102373914",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "ProForm-reg-Jump-N-Step-Mini-Trampoline-and-Step-Platform-with-Resistance-Bands-and-6-Workout-DVDs-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "3143",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "3143",
+        "prettyDuration": "00:52:23",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/102373914\/b775d\/thumb-b305bcd23c51b659db79aa59d94651a3-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373914\/b775d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373914\/b775d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373914\/b775d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373914\/b775d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373914\/b775d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "28",
+        "31"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 11512.648,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "273"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 120805.36
+}

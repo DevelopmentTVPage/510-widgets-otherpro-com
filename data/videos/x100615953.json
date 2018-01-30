@@ -1,0 +1,102 @@
+{
+    "title": "Hot Off The Press 4-pack Colorist Books with Colored Pencils and Glitter Sheet.mp4",
+    "description": "Hot Off The Press 4-pack Colorist Books with Colored Pencils and Glitter Sheet",
+    "referenceId": "f244e0a2de0b0f480ce94fe369a6512a",
+    "date_created": "1498162207",
+    "date_modified": "1498162891",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "401",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "100615953",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Hot-Off-The-Press-4-pack-Colorist-Books-with-Colored-Pencils-and-Glitter-Sheet-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "401",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "401",
+        "prettyDuration": "00:06:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/100615953\/f486c\/thumb-f244e0a2de0b0f480ce94fe369a6512a-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615953\/f486c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615953\/f486c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615953\/f486c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615953\/f486c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615953\/f486c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-08"
+        }
+    },
+    "tvp_profiles": [
+        "20"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 9541.938,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "358"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 78772.13
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Summer It List - Beauty Buzz",
+    "description": "In this Beauty Buzz video, see what HSN products made our Summer It List. Shop HSN beauty at http:\/\/www.hsn.com\/shop\/beauty\/bs",
+    "referenceId": "BDpm04ga9Qs",
+    "date_created": "1466792903",
+    "date_modified": "1501098544",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "80",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": "beauty2",
+    "living": null,
+    "category6": "beauty1",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": "beauty_buzz",
+    "gemstone_guide": null,
+    "id": "91793369",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "BEAUTY-BUZZ-Summer-It-List",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/BDpm04ga9Qs\/hqdefault.jpg",
+        "uploadDate": 1466792903,
+        "videoId": "BDpm04ga9Qs",
+        "title": "BEAUTY BUZZ: Summer It List",
+        "description": "Shop HSN beauty at http:\/\/www.hsn.com\/shop\/beauty\/bs\n\nSee what HSN products made our Summer It List.",
+        "author": "HSN",
+        "mediaDuration": 80,
+        "prettyDuration": "00:01:20",
+        "views": "781",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-26"
+        }
+    },
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 16849.588,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "405"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 40.99198
+}

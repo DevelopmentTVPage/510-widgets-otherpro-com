@@ -1,0 +1,102 @@
+{
+    "title": "Exerpeutic 5000 Magnetic Elliptical with App Tracking.mp4",
+    "description": "Exerpeutic 5000 Magnetic Elliptical with App Tracking",
+    "referenceId": "c11d07e7d28a6ea4d268c5c914fc6a56",
+    "date_created": "1497913229",
+    "date_modified": "1497914056",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "165",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productinfo",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99837833",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Exerpeutic-5000-Magnetic-Elliptical-with-App-Tracking-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "165",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "165",
+        "prettyDuration": "00:02:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99837833\/dce37\/thumb-c11d07e7d28a6ea4d268c5c914fc6a56-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99837833\/dce37\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99837833\/dce37\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99837833\/dce37\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99837833\/dce37\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99837833\/dce37\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99837833\/dce37\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99837833\/dce37\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "25",
+        "12",
+        "16"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 38.724792,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "273"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 40344.45
+}

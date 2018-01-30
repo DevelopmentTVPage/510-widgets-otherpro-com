@@ -1,0 +1,98 @@
+{
+    "title": "Heidi Daus Ravishing Rooster Crystal Pin.mp4",
+    "description": "Heidi Daus Ravishing Rooster Crystal Pin",
+    "referenceId": "41d69f958576ddd5d1b1b932c0df852d",
+    "date_created": "1497656906",
+    "date_modified": "1497657161",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "200",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "59",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99349707",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Heidi-Daus-Ravishing-Rooster-Crystal-Pin-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "200",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "200",
+        "prettyDuration": "00:03:20",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99349707\/8f347\/thumb-41d69f958576ddd5d1b1b932c0df852d-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349707\/8f347\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349707\/8f347\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349707\/8f347\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349707\/8f347\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349707\/8f347\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-10-20\"}}}",
+    "tvp_profiles": [
+        "20"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 3959.9375,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "186"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 36577.14
+}

@@ -1,0 +1,100 @@
+{
+    "title": "vbeaut&eacute; Eye Never&reg; Eye Creme.mp4",
+    "description": "vbeaut&eacute; Eye Never&reg; Eye Creme",
+    "referenceId": "da3fc6282eaf9dd3fefc451db8c31dff",
+    "date_created": "1497659078",
+    "date_modified": "1497659714",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "284",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "top10faves",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99352064",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "vbeaut-eacute-Eye-Never-reg-Eye-Creme-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "284",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "284",
+        "prettyDuration": "00:04:44",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99352064\/51da1\/thumb-da3fc6282eaf9dd3fefc451db8c31dff-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99352064\/51da1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99352064\/51da1\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99352064\/51da1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99352064\/51da1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99352064\/51da1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99352064\/51da1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99352064\/51da1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 9999,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "96"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 33888.824
+}

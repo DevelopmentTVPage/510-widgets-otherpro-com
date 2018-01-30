@@ -1,0 +1,98 @@
+{
+    "title": "Michael Anthony Jewelry&reg; 10K Miraculous Mary Medallion.mp4",
+    "description": "Michael Anthony Jewelry&reg; 10K Miraculous Mary Medallion",
+    "referenceId": "c121530b983a10138c3f6d2497399222",
+    "date_created": "1498839590",
+    "date_modified": "1498840060",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "299",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "top10faves",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "102373817",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Michael-Anthony-Jewelry-reg-10K-Miraculous-Mary-Medallion-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "299",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "299",
+        "prettyDuration": "00:04:59",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/102373817\/c84be\/thumb-c121530b983a10138c3f6d2497399222-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373817\/c84be\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373817\/c84be\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373817\/c84be\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373817\/c84be\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373817\/c84be\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "20"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 21966.803,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "116"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 27323.725
+}

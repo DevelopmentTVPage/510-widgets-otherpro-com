@@ -1,0 +1,101 @@
+{
+    "title": "Benefit Precisely My Brow Pencil Shade 01 - Light Blonde.mp4",
+    "description": "Benefit Precisely My Brow Pencil Shade 01 - Light Blonde",
+    "referenceId": "f7cdb1289304cf8c9702c3355298ce38",
+    "date_created": "1498868558",
+    "date_modified": "1498869077",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productinfo",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "102374393",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Benefit-Precisely-My-Brow-Pencil-Shade-01-Light-Blonde-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "60",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/102374393\/3d2d6\/thumb-f7cdb1289304cf8c9702c3355298ce38-00001.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374393\/3d2d6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374393\/3d2d6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374393\/3d2d6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374393\/3d2d6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374393\/3d2d6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/102374393\/3d2d6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/102374393\/3d2d6\/media.m3u8"
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 75.67183,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "140"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 140.272
+}

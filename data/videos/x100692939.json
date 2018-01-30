@@ -1,0 +1,104 @@
+{
+    "title": "Michael Anthony Jewelry&reg; 10K Gold 5.45mm 3+1 Figaro 22 Chain Necklace.mp4",
+    "description": "Michael Anthony Jewelry&reg; 10K Gold 5.45mm 3+1 Figaro 22 Chain Necklace",
+    "referenceId": "84394cd0a71f4e00f4997a341d532973",
+    "date_created": "1498178333",
+    "date_modified": "1498235087",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "317",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "100692939",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Michael-Anthony-Jewelry-reg-10K-Gold-5-45mm-3-1-Figaro-22-Chain-Necklace-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "317",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "317",
+        "prettyDuration": "00:05:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/100692939\/d7613\/thumb-84394cd0a71f4e00f4997a341d532973-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/100692939\/d7613\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/100692939\/d7613\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100692939\/d7613\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100692939\/d7613\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100692939\/d7613\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100692939\/d7613\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100692939\/d7613\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-26"
+        }
+    },
+    "tvp_profiles": [
+        "20"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 22084.957,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "220"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 38985.145
+}

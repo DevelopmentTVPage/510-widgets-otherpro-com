@@ -1,0 +1,100 @@
+{
+    "title": "Lorena Garcia&lsquo;s Signature New Latin Classics Signed Cookbook1.mp4",
+    "description": "Lorena Garcia&lsquo;s Signature New Latin Classics Signed Cookbook1.mp4",
+    "referenceId": "64dc93f3a28db4efa77dcb869e5a0d7e",
+    "date_created": "1497549389",
+    "date_modified": "1497549747",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "235",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "20",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99050385",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Lorena-Garcia-lsquo-s-Signature-New-Latin-Classics-Signed-Cookbook1-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "235",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "235",
+        "prettyDuration": "00:03:55",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99050385\/b5028\/thumb-64dc93f3a28db4efa77dcb869e5a0d7e-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99050385\/b5028\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99050385\/b5028\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99050385\/b5028\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99050385\/b5028\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99050385\/b5028\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99050385\/b5028\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99050385\/b5028\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-10-20\"}}}",
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 9999,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "431"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 7682.359
+}

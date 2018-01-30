@@ -1,0 +1,99 @@
+{
+    "title": "Elys&eacute;e Advanced Transitioning Firming System.mp4",
+    "description": "Elys&eacute;e Advanced Transitioning Firming System",
+    "referenceId": "5608649be65c1339db4ab4a85d8c3481",
+    "date_created": "1497990625",
+    "date_modified": "1497991167",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "1333",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99917104",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Elys-eacute-e-Advanced-Transitioning-Firming-System-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1333",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "1333",
+        "prettyDuration": "00:22:13",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99917104\/3edb2\/thumb-5608649be65c1339db4ab4a85d8c3481-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99917104\/3edb2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99917104\/3edb2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99917104\/3edb2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99917104\/3edb2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99917104\/3edb2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 44.52326,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "96"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 17158.543
+}

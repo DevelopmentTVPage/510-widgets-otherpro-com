@@ -1,0 +1,102 @@
+{
+    "title": "Benefit Dandelion Dew Face Color.mp4",
+    "description": "Benefit Dandelion Dew Face Color",
+    "referenceId": "cb7fdfad6bef3f85489eece76769ace2",
+    "date_created": "1498667338",
+    "date_modified": "1498669147",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "288",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "102141580",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Benefit-Dandelion-Dew-Face-Color-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "288",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "288",
+        "prettyDuration": "00:04:48",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/102141580\/3caea\/thumb-cb7fdfad6bef3f85489eece76769ace2-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/102141580\/3caea\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/102141580\/3caea\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102141580\/3caea\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102141580\/3caea\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102141580\/3caea\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102141580\/3caea\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102141580\/3caea\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4",
+        "26",
+        "19"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 26.55095,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "134"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 208.91045
+}

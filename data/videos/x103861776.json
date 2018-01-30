@@ -1,0 +1,102 @@
+{
+    "title": "Best of the Bean Cold Brewed Coffee - Espresso.mp4",
+    "description": "Best of the Bean Cold Brewed Coffee - Espresso",
+    "referenceId": "94ec492c6f70e71e80add210d6de469e",
+    "date_created": "1499455562",
+    "date_modified": "1499455829",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "384",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "CVV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "103861776",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Best-of-the-Bean-Cold-Brewed-Coffee-Espresso-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "384",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "384",
+        "prettyDuration": "00:06:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/103861776\/8af1e\/thumb-94ec492c6f70e71e80add210d6de469e-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861776\/8af1e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861776\/8af1e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861776\/8af1e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861776\/8af1e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861776\/8af1e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/103861776\/8af1e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/103861776\/8af1e\/media.m3u8"
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-10-20\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
+    "tvp_profiles": [
+        "28",
+        "9",
+        "32"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 189.18663,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "107"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 39269.113
+}

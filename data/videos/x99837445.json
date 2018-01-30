@@ -1,0 +1,100 @@
+{
+    "title": "Perlier Royal Elixir Extraordinary Nectar Serum.mp4",
+    "description": "Perlier Royal Elixir Extraordinary Nectar Serum",
+    "referenceId": "45259f045f082aa9d7bbbeefb4b66e00",
+    "date_created": "1497890742",
+    "date_modified": "1497891050",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "284",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "top10faves",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99837445",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Perlier-Royal-Elixir-Extraordinary-Nectar-Serum-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "284",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "284",
+        "prettyDuration": "00:04:44",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99837445\/78262\/thumb-45259f045f082aa9d7bbbeefb4b66e00-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99837445\/78262\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99837445\/78262\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99837445\/78262\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99837445\/78262\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99837445\/78262\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99837445\/78262\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99837445\/78262\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 34.491783,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "96"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 26714.037
+}

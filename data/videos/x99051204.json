@@ -1,0 +1,104 @@
+{
+    "title": "Micro Touch One Classic Safety Razor.mp4",
+    "description": "Micro Touch One Classic Safety Razor",
+    "referenceId": "513fa756e28f5c3424269d4174d415bf",
+    "date_created": "1497557156",
+    "date_modified": "1497557396",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "223",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "quicklook",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99051204",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Micro-Touch-One-Classic-Safety-Razor-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "223",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "223",
+        "prettyDuration": "00:03:43",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99051204\/c49fb\/thumb-513fa756e28f5c3424269d4174d415bf-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99051204\/c49fb\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99051204\/c49fb\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051204\/c49fb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051204\/c49fb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051204\/c49fb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051204\/c49fb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051204\/c49fb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-20"
+        }
+    },
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 9999,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "218"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 29740.922
+}

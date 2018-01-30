@@ -1,0 +1,101 @@
+{
+    "title": "Carol's Daughter Monoi Repairing Shampoo and Conditioner Duo.mp4",
+    "description": "Carol's Daughter Monoi Repairing Shampoo and Conditioner Duo",
+    "referenceId": "17318eefb2ca86c9e2c2907f40c6dbea",
+    "date_created": "1497476375",
+    "date_modified": "1497476978",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "868",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "98938130",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Carol-s-Daughter-Monoi-Repairing-Shampoo-and-Conditioner-Duo-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "868",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "868",
+        "prettyDuration": "00:14:28",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/98938130\/a71f2\/thumb-17318eefb2ca86c9e2c2907f40c6dbea-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/98938130\/a71f2\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/98938130\/a71f2\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/98938130\/a71f2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/98938130\/a71f2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/98938130\/a71f2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/98938130\/a71f2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/98938130\/a71f2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "27",
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 7259.1245,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "140"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 38785.71
+}

@@ -1,0 +1,59 @@
+{
+    "title": "Dicing 101",
+    "description": "Ever wonder what's the best way to slice and dice food?  Chef Ming Tsai is here to show you how!\nShop HSN Kitchen: https:\/\/www.hsn.com\/shop\/kitchen-and-food\/qc",
+    "referenceId": "SMmyOeP59q4",
+    "date_created": "1485374968",
+    "date_modified": "1502130157",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "660",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "72",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": "food",
+    "category6": "kitchen_food",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "87341491",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Dicing-101",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/SMmyOeP59q4\/hqdefault.jpg",
+        "uploadDate": 1485374968,
+        "videoId": "SMmyOeP59q4",
+        "title": "Dicing 101",
+        "description": "Ever wonder what's the best way to slice and dice seasonal vegetables?  Chef Ming Tsai is here to show you how!",
+        "author": "HSN",
+        "mediaDuration": 660,
+        "prettyDuration": "00:11:00",
+        "views": "102",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-22"
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": true,
+    "tvp_profiles_maxscore": 404.34082,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "719"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 165.52072
+}

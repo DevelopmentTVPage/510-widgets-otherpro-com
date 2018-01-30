@@ -1,0 +1,100 @@
+{
+    "title": "Caravelle New York by Bulova Ladies' Crystal Bezel Rosetone Stainless Steel Bracelet Chronograph Watch.mp4",
+    "description": "Caravelle New York by Bulova Ladies' Crystal Bezel Rosetone Stainless Steel Bracelet Chronograph Watch",
+    "referenceId": "743b45ec5dcd08e591f0ea663ce90ac5",
+    "date_created": "1497632446",
+    "date_modified": "1497632686",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "257",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99349197",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Caravelle-New-York-by-Bulova-Ladies-Crystal-Bezel-Rosetone-Stainless-Steel-Bracelet-Chronograph-Watch-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "257",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "257",
+        "prettyDuration": "00:04:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99349197\/27b2a\/thumb-743b45ec5dcd08e591f0ea663ce90ac5-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99349197\/27b2a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99349197\/27b2a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349197\/27b2a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349197\/27b2a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349197\/27b2a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349197\/27b2a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349197\/27b2a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "34"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 15755.354,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "162"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 71347.164
+}

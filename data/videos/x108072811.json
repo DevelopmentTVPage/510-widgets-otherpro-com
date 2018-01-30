@@ -1,0 +1,65 @@
+{
+    "title": "Peach Cobbler Ice Cream - Good Food Fast",
+    "description": "Recipe for peach cobbler ice cream.\nShop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya",
+    "referenceId": "TjmyxJtacmc",
+    "date_created": "1501785065",
+    "date_modified": "1501854528",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "50",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "99",
+    "CVV_VI": "13",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": "food",
+    "category6": "kitchen_food",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": "good_food_fast",
+    "gemstone_guide": null,
+    "id": "108072811",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Good-Food-Fast-Peach-Cobbler-Ice-Cream",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/TjmyxJtacmc\/hqdefault.jpg",
+        "uploadDate": 1501785065,
+        "videoId": "TjmyxJtacmc",
+        "title": "HSN | Good Food Fast: Peach Cobbler Ice Cream",
+        "description": "Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya\n\nLearn how to make our recipes.",
+        "author": "HSN",
+        "mediaDuration": 50,
+        "prettyDuration": "00:00:50",
+        "views": "60",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-19"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-11-23"
+        }
+    },
+    "tvp_profiles": [
+        "14",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 4498.686,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "210"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 5357.3125
+}

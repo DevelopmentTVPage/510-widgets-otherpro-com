@@ -1,0 +1,100 @@
+{
+    "title": "Elizabeth Arden Superstart Booster Skincare.mp4",
+    "description": "Elizabeth Arden Superstart Booster Skincare",
+    "referenceId": "7c15a6ecacc000f78662333281483e0f",
+    "date_created": "1498162172",
+    "date_modified": "1498163575",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "588",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "100615948",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Elizabeth-Arden-Superstart-Booster-Skincare-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "588",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "588",
+        "prettyDuration": "00:09:48",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/100615948\/c5a5d\/thumb-7c15a6ecacc000f78662333281483e0f-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/100615948\/c5a5d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/100615948\/c5a5d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615948\/c5a5d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615948\/c5a5d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615948\/c5a5d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615948\/c5a5d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615948\/c5a5d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 25.056921,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "123"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 3877.891
+}

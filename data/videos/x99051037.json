@@ -1,0 +1,101 @@
+{
+    "title": "Concierge Collection Inflatable EZ Bed - Queen.mp4",
+    "description": "Concierge Collection Inflatable EZ Bed - Queen",
+    "referenceId": "b8210dde4884d1515e02a982598f8e29",
+    "date_created": "1497554388",
+    "date_modified": "1497554672",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "345",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99051037",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Concierge-Collection-Inflatable-EZ-Bed-Queen-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "345",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "345",
+        "prettyDuration": "00:05:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99051037\/0d6df\/thumb-b8210dde4884d1515e02a982598f8e29-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99051037\/0d6df\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99051037\/0d6df\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051037\/0d6df\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051037\/0d6df\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051037\/0d6df\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051037\/0d6df\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051037\/0d6df\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "21"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 2910.9229,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "119"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 2604.506
+}

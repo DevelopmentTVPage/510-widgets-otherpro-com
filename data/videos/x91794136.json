@@ -1,0 +1,61 @@
+{
+    "title": "4K Technology Explained with Stephanie Duchaine",
+    "description": "Stephanie Duchaine explains 4K technology and how it improves your TV viewing experience.\nFor more visit HSN: http:\/\/goo.gl\/ieh7M8",
+    "referenceId": "Dr466C_RUBw",
+    "date_created": "1428610693",
+    "date_modified": "1501857532",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "152",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": "home_electronics",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "91794136",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-4K-Explained",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Dr466C_RUBw\/hqdefault.jpg",
+        "uploadDate": 1428610693,
+        "videoId": "Dr466C_RUBw",
+        "title": "HSN | 4K Explained",
+        "description": "For more visit HSN.com\nhttp:\/\/goo.gl\/ieh7M8",
+        "author": "HSN",
+        "mediaDuration": 152,
+        "prettyDuration": "00:02:32",
+        "views": "577",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-07"
+        }
+    },
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 6366.5186,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "299"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 142.45569
+}

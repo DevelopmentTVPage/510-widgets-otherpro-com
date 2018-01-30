@@ -1,0 +1,61 @@
+{
+    "title": "Egg Tips with Wolfgang Puck",
+    "description": "Chef Wolfgang Puck teaches us how to properly prepare omelettes, poached eggs and more!\n\nShop Wolfgang Puck at HSN: https:\/\/www.hsn.com\/shop\/wolfgang-puck\/181",
+    "referenceId": "m00Qui-njTo",
+    "date_created": "1485376864",
+    "date_modified": "1502135488",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "512",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "71",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": "food",
+    "category6": "kitchen_food",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "91792254",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Egg-Tips",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/m00Qui-njTo\/hqdefault.jpg",
+        "uploadDate": 1485376864,
+        "videoId": "m00Qui-njTo",
+        "title": "Egg Tips",
+        "description": "How do you like your eggs?  Chef Wolfgang Puck teaches us how to properly prepare omelettes, poached eggs and more!",
+        "author": "HSN",
+        "mediaDuration": 512,
+        "prettyDuration": "00:08:32",
+        "views": "73",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-22"
+        }
+    },
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 4888.5,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "129"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 3796.9058
+}

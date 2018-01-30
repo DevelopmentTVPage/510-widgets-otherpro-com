@@ -1,0 +1,98 @@
+{
+    "title": "Diamond Couture 14K White Gold .5ctw Diamond Framed Oval Stud Earrings.mp4",
+    "description": "Diamond Couture 14K White Gold .5ctw Diamond Framed Oval Stud Earrings",
+    "referenceId": "19f726d733d6e6244cde71279de530c9",
+    "date_created": "1498667457",
+    "date_modified": "1498669056",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "173",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "102141590",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Diamond-Couture-14K-White-Gold-5ctw-Diamond-Framed-Oval-Stud-Earrings-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "173",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "173",
+        "prettyDuration": "00:02:53",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/102141590\/2324b\/thumb-19f726d733d6e6244cde71279de530c9-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102141590\/2324b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102141590\/2324b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102141590\/2324b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102141590\/2324b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102141590\/2324b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "20"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 10749.145,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "146"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 36003.41
+}

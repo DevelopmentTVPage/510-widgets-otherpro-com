@@ -1,0 +1,61 @@
+{
+    "title": "Caramel Apple Pie Cookies - Good Food Fast",
+    "description": "Recipe for caramel apple pie cookies. Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya",
+    "referenceId": "8VdVZejabBs",
+    "date_created": "1483733691",
+    "date_modified": "1509727540",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "62",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "245",
+    "CVV_VI": "16",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": "food",
+    "category6": "kitchen_food",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": "nov_2017_cooks_event",
+    "gemstone_guide": null,
+    "id": "91792273",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Good-Food-Fast-Caramel-Apple-Pie-Cookies",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/8VdVZejabBs\/hqdefault.jpg",
+        "uploadDate": 1483733691,
+        "videoId": "8VdVZejabBs",
+        "title": "HSN | Good Food Fast: Caramel Apple Pie Cookies",
+        "description": "Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya\n\nLearn how to make our recipes.",
+        "author": "HSN",
+        "mediaDuration": 62,
+        "prettyDuration": "00:01:02",
+        "views": "153",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-19"
+        }
+    },
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 1596.6084,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "107"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 7147.2603
+}

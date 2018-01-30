@@ -1,0 +1,65 @@
+{
+    "title": "From Shapeless to Feathery Brows - Benefit",
+    "description": "Learn how to transform shapeless brows to a soft and feathery look using just three magical Benefit Cosmetic products.",
+    "referenceId": "5FgXxAWzdF4",
+    "date_created": "1501613127",
+    "date_modified": "1502216903",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "105",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": "beauty2",
+    "living": null,
+    "category6": "beauty1",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "107364850",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Benefit-Brows-Dilemma-Shapeless-to-Feathered",
+    "category": null,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "HSNtv",
+        "hdvFlag": 1,
+        "description": "Benefit Brows - Dilemma - Shapeless to Feathered",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/5FgXxAWzdF4\/hqdefault.jpg",
+        "videoId": "5FgXxAWzdF4",
+        "mediaDuration": 105,
+        "prettyDuration": "00:01:45",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-17"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-12-17"
+        }
+    },
+    "tvp_profiles": [
+        "4",
+        "18",
+        "27"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 259.0769,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "405"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 147.96033
+}

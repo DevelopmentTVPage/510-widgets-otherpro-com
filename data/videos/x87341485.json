@@ -1,0 +1,64 @@
+{
+    "title": "Air Baked Lava Cake - Good Food Fast",
+    "description": "Recipe for an air baked lava cake. Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya",
+    "referenceId": "GOiv7MxQ5lA",
+    "date_created": "1486763286",
+    "date_modified": "1502741497",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "105",
+    "CVV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": "food",
+    "category6": "kitchen_food",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": "good_food_fast",
+    "gemstone_guide": null,
+    "id": "87341485",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Good-Food-Fast-Air-Baked-Lava-Cake",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/GOiv7MxQ5lA\/hqdefault.jpg",
+        "uploadDate": 1486763286,
+        "videoId": "GOiv7MxQ5lA",
+        "title": "HSN | Good Food Fast: Air Baked Lava Cake",
+        "description": "Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya\n\nLearn how to make our recipes.",
+        "author": "HSN",
+        "mediaDuration": 30,
+        "prettyDuration": "00:00:30",
+        "views": "291",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-19"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-11-26"
+        }
+    },
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 808.70197,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "228"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 349.4775
+}

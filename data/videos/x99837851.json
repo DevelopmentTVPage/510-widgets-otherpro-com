@@ -1,0 +1,100 @@
+{
+    "title": "Korres Wild Rose Brightening Eye Beauty Treatment.mp4",
+    "description": "Korres Wild Rose Brightening Eye Beauty Treatment",
+    "referenceId": "b891605947a417b3eb87543073498113",
+    "date_created": "1497915466",
+    "date_modified": "1497917268",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "174",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99837851",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Korres-Wild-Rose-Brightening-Eye-Beauty-Treatment-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "174",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "174",
+        "prettyDuration": "00:02:54",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99837851\/1895c\/thumb-b891605947a417b3eb87543073498113-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99837851\/1895c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99837851\/1895c\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99837851\/1895c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99837851\/1895c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99837851\/1895c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99837851\/1895c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99837851\/1895c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 147.59644,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "96"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 33933.812
+}

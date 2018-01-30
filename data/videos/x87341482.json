@@ -1,0 +1,61 @@
+{
+    "title": "Classic Beer Chili - Good Food Fast",
+    "description": "Recipe for classic beer chili. Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya",
+    "referenceId": "3W88WnID7_8",
+    "date_created": "1486765136",
+    "date_modified": "1499889117",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "52",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "71",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": "food",
+    "category6": "kitchen_food",
+    "series": null,
+    "video_type": null,
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "87341482",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Good-Food-Fast-Classic-Beer-Chili",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/3W88WnID7_8\/hqdefault.jpg",
+        "uploadDate": 1486765136,
+        "videoId": "3W88WnID7_8",
+        "title": "HSN | Good Food Fast: Classic Beer Chili",
+        "description": "Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya\n\nLearn how to make our recipes.",
+        "author": "HSN",
+        "mediaDuration": 52,
+        "prettyDuration": "00:00:52",
+        "views": "207",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-22"
+        }
+    },
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 1579.781,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "228"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 339.48108
+}

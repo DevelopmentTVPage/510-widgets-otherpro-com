@@ -1,0 +1,100 @@
+{
+    "title": "Crafter's Companion Ultimate Tool Bundle.mp4",
+    "description": "Crafter's Companion Ultimate Tool Bundle",
+    "referenceId": "7a5742d85c432ba08b702213917f2511",
+    "date_created": "1498158923",
+    "date_modified": "1498159293",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "845",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "100615918",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Crafter-s-Companion-Ultimate-Tool-Bundle-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "845",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "845",
+        "prettyDuration": "00:14:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/100615918\/6ecc0\/thumb-7a5742d85c432ba08b702213917f2511-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615918\/6ecc0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615918\/6ecc0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615918\/6ecc0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615918\/6ecc0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615918\/6ecc0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "25",
+        "18",
+        "26"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 35.023308,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "405"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 13044.956
+}

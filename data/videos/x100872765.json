@@ -1,0 +1,100 @@
+{
+    "title": "Signature Club A Rapid C Infused High Potent-C Capsules.mp4",
+    "description": "Signature Club A Rapid C Infused High Potent-C Capsules",
+    "referenceId": "37c29a488633e7d53a06c6f3a26c045d",
+    "date_created": "1498237852",
+    "date_modified": "1498238098",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "352",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "top10faves",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "100872765",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Signature-Club-A-Rapid-C-Infused-High-Potent-C-Capsules-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "352",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "352",
+        "prettyDuration": "00:05:52",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/100872765\/c121e\/thumb-37c29a488633e7d53a06c6f3a26c045d-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/100872765\/c121e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/100872765\/c121e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100872765\/c121e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100872765\/c121e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100872765\/c121e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100872765\/c121e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100872765\/c121e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 12302.393,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "96"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 34308.203
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Connected Life with Nancy Grace Part 2",
+    "description": "Legal analyst Nancy Grace discusses security cameras and how they add peace of mind to every day life. \nShop HSN Connected Life at https:\/\/goo.gl\/sjTNLP\n\nLearn how to get connected.",
+    "referenceId": "R3xMIBF2qGg",
+    "date_created": "1506710399",
+    "date_modified": "1507566355",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "180",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": "connected_life1",
+    "gemstone_guide": null,
+    "id": "120397668",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Connected-Life-Nancy-Grace-Part-2",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/R3xMIBF2qGg\/maxresdefault.jpg",
+        "uploadDate": 1506710399,
+        "videoId": "R3xMIBF2qGg",
+        "title": "HSN | Connected Life: Nancy Grace Part 2",
+        "description": "Shop HSN Connected Life at https:\/\/goo.gl\/sjTNLP\n\nLearn how to get connected.",
+        "author": "HSN",
+        "mediaDuration": 180,
+        "prettyDuration": "00:03:00",
+        "views": "8",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-08"
+        }
+    },
+    "tvp_profiles": [
+        "16"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 8692.206,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "405"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 449.74048
+}

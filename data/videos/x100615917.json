@@ -1,0 +1,102 @@
+{
+    "title": "PRAI Ageless Hand Cream 4 oz..mp4",
+    "description": "PRAI Ageless Hand Cream 4 oz",
+    "referenceId": "c529325cff2f3d70fb8392de43071fd5",
+    "date_created": "1498158892",
+    "date_modified": "1498159523",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "120",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "quicklook",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "100615917",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "PRAI-Ageless-Hand-Cream-4-oz-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "120",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "120",
+        "prettyDuration": "00:02:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/100615917\/94d3e\/thumb-c529325cff2f3d70fb8392de43071fd5-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/100615917\/94d3e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/100615917\/94d3e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615917\/94d3e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615917\/94d3e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615917\/94d3e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615917\/94d3e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100615917\/94d3e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "25",
+        "18",
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 3721.6067,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "170"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 26001.93
+}

@@ -1,0 +1,100 @@
+{
+    "title": "Lanc&ocirc;me Grandiose Mascara - Wide-Angle Fan-Effect, Noir Mirifique 01.mp4",
+    "description": "Lanc&ocirc;me Grandiose Mascara - Wide-Angle Fan-Effect, Noir Mirifique 01",
+    "referenceId": "73851a3f9b238b3f7e29ada114a5ae53",
+    "date_created": "1497477888",
+    "date_modified": "1497479542",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "32",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productinfo",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "98938140",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Lanc-ocirc-me-Grandiose-Mascara-Wide-Angle-Fan-Effect-Noir-Mirifique-01-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "32",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "32",
+        "prettyDuration": "00:00:32",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/98938140\/96420\/thumb-73851a3f9b238b3f7e29ada114a5ae53-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/98938140\/96420\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/98938140\/96420\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/98938140\/96420\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/98938140\/96420\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/98938140\/96420\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/98938140\/96420\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/98938140\/96420\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 16420.564,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "134"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 12966.235
+}

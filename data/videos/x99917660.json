@@ -1,0 +1,100 @@
+{
+    "title": "Aloe Vera 400 - 60 Capsules.mp4",
+    "description": "Aloe Vera 400 - 60 Capsules",
+    "referenceId": "26037b61ba2b223f6ff8623303d02978",
+    "date_created": "1498003066",
+    "date_modified": "1498004454",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "270",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99917660",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Aloe-Vera-400-60-Capsules-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "270",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "270",
+        "prettyDuration": "00:04:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99917660\/7e5e0\/thumb-26037b61ba2b223f6ff8623303d02978-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99917660\/7e5e0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99917660\/7e5e0\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99917660\/7e5e0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99917660\/7e5e0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99917660\/7e5e0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99917660\/7e5e0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99917660\/7e5e0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-10-20\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
+    "tvp_profiles": [
+        "16"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 100.8527,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "100"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 24553.896
+}

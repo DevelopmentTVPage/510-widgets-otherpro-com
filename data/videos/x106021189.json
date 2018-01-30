@@ -1,0 +1,100 @@
+{
+    "title": "PRAI Black Orchid Luxe Serum - 1 fl. oz..mp4",
+    "description": "PRAI Black Orchid Luxe Serum - 1 fl. oz",
+    "referenceId": "381f2f2c0e2efe411d2ca41fb5c543f6",
+    "date_created": "1500496494",
+    "date_modified": "1500499883",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "256",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "106021189",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "PRAI-Black-Orchid-Luxe-Serum-1-fl-oz-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "256",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "256",
+        "prettyDuration": "00:04:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/106021189\/34b76\/thumb-381f2f2c0e2efe411d2ca41fb5c543f6-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/106021189\/34b76\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/106021189\/34b76\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/106021189\/34b76\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/106021189\/34b76\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/106021189\/34b76\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/106021189\/34b76\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/106021189\/34b76\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 277.20337,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "96"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 40398.64
+}

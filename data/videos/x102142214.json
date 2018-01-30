@@ -1,0 +1,99 @@
+{
+    "title": "Woosh&trade; Beauty Fold Out Face Palette - Medium Light.mp4",
+    "description": "Woosh&trade; Beauty Fold Out Face Palette - Medium Light",
+    "referenceId": "4a0c0eccf609a6c10fb0c9971c4f2325",
+    "date_created": "1498683705",
+    "date_modified": "1498684084",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "354",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "top10faves",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "102142214",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Woosh-trade-Beauty-Fold-Out-Face-Palette-Medium-Light-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "354",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "354",
+        "prettyDuration": "00:05:54",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/102142214\/fd4c8\/thumb-4a0c0eccf609a6c10fb0c9971c4f2325-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102142214\/fd4c8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102142214\/fd4c8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102142214\/fd4c8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102142214\/fd4c8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102142214\/fd4c8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "9"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 72.94963,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "218"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 19933.85
+}

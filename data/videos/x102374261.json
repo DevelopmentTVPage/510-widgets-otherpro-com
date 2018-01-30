@@ -1,0 +1,100 @@
+{
+    "title": "Hair2wear Christie Brinkley Hair Extension - 12 Almost BlackEbony.mp4",
+    "description": "Hair2wear Christie Brinkley Hair Extension - 12 Almost BlackEbony.",
+    "referenceId": "136bfb8a98219302e4371db68cbbb66a",
+    "date_created": "1498864083",
+    "date_modified": "1498864648",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "1169",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "102374261",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Hair2wear-Christie-Brinkley-Hair-Extension-12-Almost-BlackEbony-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1169",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "1169",
+        "prettyDuration": "00:19:29",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/102374261\/9f3b7\/thumb-136bfb8a98219302e4371db68cbbb66a-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/102374261\/9f3b7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/102374261\/9f3b7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374261\/9f3b7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374261\/9f3b7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374261\/9f3b7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374261\/9f3b7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374261\/9f3b7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 37.828743,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "140"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 34271.17
+}

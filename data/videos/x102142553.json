@@ -1,0 +1,101 @@
+{
+    "title": "PRAI Ageless Lip Line Filler - Supersize Auto-Ship&reg;.mp4",
+    "description": "PRAI Ageless Lip Line Filler - Supersize Auto-Ship&reg",
+    "referenceId": "145e22b2c66b8c8f62f6c3e810573c62",
+    "date_created": "1498687321",
+    "date_modified": "1498688159",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "305",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "top10faves",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "102142553",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "PRAI-Ageless-Lip-Line-Filler-Supersize-Auto-Ship-reg-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "305",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "305",
+        "prettyDuration": "00:05:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/102142553\/5c0ec\/thumb-145e22b2c66b8c8f62f6c3e810573c62-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/102142553\/5c0ec\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/102142553\/5c0ec\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102142553\/5c0ec\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102142553\/5c0ec\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102142553\/5c0ec\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102142553\/5c0ec\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102142553\/5c0ec\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4",
+        "16"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 9364.271,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "96"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 41714.055
+}

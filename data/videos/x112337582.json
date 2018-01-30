@@ -1,0 +1,66 @@
+{
+    "title": "HSN | First Friday with Amy and Adam 05.05.2017 - 07 PM",
+    "description": "Fast-paced show featuring what is hot right now and a sneak peek of the fun yet to come\n Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+    "referenceId": "c4ZPCQvMKOQ",
+    "date_created": "1494163183",
+    "date_modified": "1503423975",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "3600",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "CVV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": "first_friday",
+    "video_type": null,
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "112337582",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-First-Friday-with-Amy-and-Adam-05-05-2017-07-PM",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/c4ZPCQvMKOQ\/hqdefault.jpg",
+        "uploadDate": 1494163183,
+        "videoId": "c4ZPCQvMKOQ",
+        "title": "HSN | First Friday with Amy and Adam 05.05.2017 - 07 PM",
+        "description": "Fast-paced show featuring what is hot right now and a sneak peek of the fun yet to come\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+        "author": "HSNtv",
+        "mediaDuration": 3600,
+        "prettyDuration": "01:00:00",
+        "views": "189",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-29"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-12-17"
+        }
+    },
+    "tvp_profiles": [
+        "4",
+        "14",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1330.9216,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "150"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 298.0218
+}

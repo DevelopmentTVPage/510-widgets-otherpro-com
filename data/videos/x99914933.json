@@ -1,0 +1,100 @@
+{
+    "title": "Korres Guava Shower Gel and Body Butter Duo.mp4",
+    "description": "Korres Guava Shower Gel and Body Butter Duo",
+    "referenceId": "d8a3cd70f3ab521c3aec3af903a9c206",
+    "date_created": "1497980229",
+    "date_modified": "1497980600",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "161",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "quicklook",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99914933",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Korres-Guava-Shower-Gel-and-Body-Butter-Duo-2-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "161",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "161",
+        "prettyDuration": "00:02:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99914933\/850d9\/thumb-d8a3cd70f3ab521c3aec3af903a9c206-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99914933\/850d9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99914933\/850d9\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99914933\/850d9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99914933\/850d9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99914933\/850d9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99914933\/850d9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99914933\/850d9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 5783.1704,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "170"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 33679.51
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Curtis Stone - Behind the Brand",
+    "description": "Turning the every day into gourmet! Kitchen Innovations to simplify prep and make cooking fun.\nShop Curtis Stone at HSN: https:\/\/goo.gl\/57PpeD",
+    "referenceId": "Q2fKDMbIvso",
+    "date_created": "1500580566",
+    "date_modified": "1501682017",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "31",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": "kitchen_food",
+    "series": null,
+    "video_type": "behind_the_brand",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "106044537",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Curtis-Stone",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Q2fKDMbIvso\/hqdefault.jpg",
+        "uploadDate": 1500580566,
+        "videoId": "Q2fKDMbIvso",
+        "title": "HSN | Curtis Stone",
+        "description": "Shop the Curtis Stone collection now at https:\/\/goo.gl\/57PpeD\n\nTurning the every day into gourmet! Kitchen Innovations to simplify prep and make cooking fun.",
+        "author": "HSN",
+        "mediaDuration": 31,
+        "prettyDuration": "00:00:31",
+        "views": "54",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-11"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-12-11"
+        }
+    },
+    "tvp_profiles": [
+        "14",
+        "18",
+        "33"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 3743.5986,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "373"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 3928.8203
+}

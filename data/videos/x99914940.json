@@ -1,0 +1,106 @@
+{
+    "title": "Spectrum Noir 24-piece Marker Set with Coloring Guide DVD - Floral.mp4",
+    "description": "Spectrum Noir 24-piece Marker Set with Coloring Guide DVD - Floral",
+    "referenceId": "87442bbf2872f341a3097c892171ce49",
+    "date_created": "1497980705",
+    "date_modified": "1497981126",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "437",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99914940",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Spectrum-Noir-24-piece-Marker-Set-with-Coloring-Guide-DVD-Floral-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "437",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "437",
+        "prettyDuration": "00:07:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99914940\/234fe\/thumb-87442bbf2872f341a3097c892171ce49-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99914940\/234fe\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99914940\/234fe\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99914940\/234fe\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99914940\/234fe\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99914940\/234fe\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99914940\/234fe\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99914940\/234fe\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-08"
+        }
+    },
+    "tvp_profiles": [
+        "18",
+        "31",
+        "22"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 3178.1477,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "159"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 26124.53
+}

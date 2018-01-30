@@ -1,0 +1,100 @@
+{
+    "title": "Whirlpool Whispure&trade; HEPA Air Purifier1.mp4",
+    "description": "Whirlpool Whispure&trade; HEPA Air Purifier1.mp4",
+    "referenceId": "a86f22ac81abf6dfe9d03113765111c5",
+    "date_created": "1497565585",
+    "date_modified": "1497565791",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "330",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "top10faves",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99051538",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Whirlpool-Whispure-trade-HEPA-Air-Purifier1-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "330",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "330",
+        "prettyDuration": "00:05:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99051538\/8a30a\/thumb-a86f22ac81abf6dfe9d03113765111c5-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99051538\/8a30a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99051538\/8a30a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051538\/8a30a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051538\/8a30a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051538\/8a30a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051538\/8a30a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051538\/8a30a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 3654.2231,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "215"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 13344.827
+}

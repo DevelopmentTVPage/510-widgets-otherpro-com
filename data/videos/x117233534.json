@@ -1,0 +1,69 @@
+{
+    "title": "Aging in Place",
+    "description": "Andrew Lessman discusses aging in place - remaining active, staying a healthy weight, stretching, and exercises are all expert tips. \n\nShop Andrew Lessman on HSN: https:\/\/www.hsn.com\/shop\/andrew-lessman\/129",
+    "referenceId": "swVW8m4ICiw",
+    "date_created": "1504889132",
+    "date_modified": "1511967260",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "591",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "30",
+    "CVV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": null,
+    "storefront": "health_and_wellness_storefront",
+    "gemstone_guide": null,
+    "id": "117233534",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Aging-in-Place-with-Andrew-Lessman",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/swVW8m4ICiw\/maxresdefault.jpg",
+        "uploadDate": 1504889132,
+        "videoId": "swVW8m4ICiw",
+        "title": "Aging in Place with Andrew Lessman",
+        "description": "Aging in Place with Andrew Lessman",
+        "author": "HSNtv",
+        "mediaDuration": 591,
+        "prettyDuration": "00:09:51",
+        "views": "9",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2017-10-20"
+            }
+        },
+        "CVV_VI": {
+            "conversion_score": {
+                "lastUpdatedDate": "2017-11-17"
+            },
+            "lastUpdatedDate": "2017-12-26"
+        }
+    },
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 7507.644,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "100"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 42.179317
+}

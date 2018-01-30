@@ -1,0 +1,100 @@
+{
+    "title": "Teint Idole Ultra 24H Makeup - 530 Suede C.mp4",
+    "description": "Teint Idole Ultra 24H Makeup - 530 Suede C",
+    "referenceId": "637a78b2571cbddefa0a14ca7cc98ae1",
+    "date_created": "1497655159",
+    "date_modified": "1497655358",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "37",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productinfo",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99349702",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Teint-Idole-Ultra-24H-Makeup-530-Suede-C-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "37",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "37",
+        "prettyDuration": "00:00:37",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99349702\/67e09\/thumb-637a78b2571cbddefa0a14ca7cc98ae1-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99349702\/67e09\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99349702\/67e09\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349702\/67e09\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349702\/67e09\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349702\/67e09\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349702\/67e09\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349702\/67e09\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 9999,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "134"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 15962.216
+}

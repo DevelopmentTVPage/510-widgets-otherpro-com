@@ -1,0 +1,64 @@
+{
+    "title": "Chocolate Chip Cookie Dough Milkshake - Good Food Fast",
+    "description": "Recipe for a chocolate chip cookie dough milkshake. Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya",
+    "referenceId": "UYLjEA9_XWQ",
+    "date_created": "1494004488",
+    "date_modified": "1499888235",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "47",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "91",
+    "CVV_VI": "7",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": "food",
+    "category6": "kitchen_food",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": "good_food_fast",
+    "gemstone_guide": null,
+    "id": "89819537",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Good-Food-Fast-Chocolate-Chip-Cookie-Dough-Milkshake",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/UYLjEA9_XWQ\/hqdefault.jpg",
+        "uploadDate": 1494004488,
+        "videoId": "UYLjEA9_XWQ",
+        "title": "HSN | Good Food Fast: Chocolate Chip Cookie Dough Milkshake",
+        "description": "Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya\n\nLearn how to make our recipes.",
+        "author": "HSN",
+        "mediaDuration": 47,
+        "prettyDuration": "00:00:47",
+        "views": "66",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-19"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-12-23"
+        }
+    },
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 1717.9802,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "107"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 14809.638
+}

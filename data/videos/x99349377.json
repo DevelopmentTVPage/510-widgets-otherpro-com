@@ -1,0 +1,100 @@
+{
+    "title": "1955 ANACS-Certified Franklin Half Dollar Buck-Tooth Error Coin.mp4",
+    "description": "1955 ANACS-Certified Franklin Half Dollar Buck-Tooth Error Coin",
+    "referenceId": "30aae71a50b747d83ba2576cfe97dcf5",
+    "date_created": "1497647372",
+    "date_modified": "1497647666",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "197",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99349377",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "1955-ANACS-Certified-Franklin-Half-Dollar-Buck-Tooth-Error-Coin-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "197",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "197",
+        "prettyDuration": "00:03:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99349377\/79106\/thumb-30aae71a50b747d83ba2576cfe97dcf5-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349377\/79106\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349377\/79106\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349377\/79106\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349377\/79106\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349377\/79106\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "25",
+        "18",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 46.041714,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1323"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 76900.555
+}

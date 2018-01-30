@@ -1,0 +1,64 @@
+{
+    "title": "Grilled Pineapple with Ice Cream - Good Food Fast",
+    "description": "Recipe for grilled pineapple with ice cream. Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya",
+    "referenceId": "_IPKxtGW-8U",
+    "date_created": "1496757563",
+    "date_modified": "1499888446",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "139",
+    "CVV_VI": "17",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "style": null,
+    "living": "food",
+    "category6": "kitchen_food",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": "good_food_fast",
+    "gemstone_guide": null,
+    "id": "96565830",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Good-Food-Fast-Grilled-Pineapple-with-Ice-Cream",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/_IPKxtGW-8U\/hqdefault.jpg",
+        "uploadDate": 1496757563,
+        "videoId": "_IPKxtGW-8U",
+        "title": "HSN | Good Food Fast: Grilled Pineapple with Ice Cream",
+        "description": "Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya\n\nLearn how to make our recipes.",
+        "author": "HSN",
+        "mediaDuration": 30,
+        "prettyDuration": "00:00:30",
+        "views": "25",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-12-29"
+        },
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-19"
+        }
+    },
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 1721.6183,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "210"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 5357.3125
+}

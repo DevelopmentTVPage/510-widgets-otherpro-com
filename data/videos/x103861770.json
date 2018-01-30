@@ -1,0 +1,100 @@
+{
+    "title": "Heidi Daus Majestic Elephant Crystal Pin.mp4",
+    "description": "Heidi Daus Majestic Elephant Crystal Pin",
+    "referenceId": "2f10eafd55bea04365cf36770a204800",
+    "date_created": "1499455480",
+    "date_modified": "1499456162",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "295",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "103861770",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Heidi-Daus-Majestic-Elephant-Crystal-Pin-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "295",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "295",
+        "prettyDuration": "00:04:55",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/103861770\/dff5f\/thumb-2f10eafd55bea04365cf36770a204800-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/103861770\/dff5f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/103861770\/dff5f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861770\/dff5f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861770\/dff5f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861770\/dff5f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861770\/dff5f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861770\/dff5f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "20"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 125.94989,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "186"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 3026.4966
+}

@@ -1,0 +1,100 @@
+{
+    "title": "Smashbox Brow Tech To Go Pencil and Gel Set - Brunette2.mp4",
+    "description": "Smashbox Brow Tech To Go Pencil and Gel Set - Brunette2.mp4",
+    "referenceId": "a94153772779bf120a895402557ec963",
+    "date_created": "1497570790",
+    "date_modified": "1497571529",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "320",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99052955",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Smashbox-Brow-Tech-To-Go-Pencil-and-Gel-Set-Brunette2-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "320",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "320",
+        "prettyDuration": "00:05:20",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99052955\/0d3ef\/thumb-a94153772779bf120a895402557ec963-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99052955\/0d3ef\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99052955\/0d3ef\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99052955\/0d3ef\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99052955\/0d3ef\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99052955\/0d3ef\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99052955\/0d3ef\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99052955\/0d3ef\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 7513.3535,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "134"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 49819.574
+}
