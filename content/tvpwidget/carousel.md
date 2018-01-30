@@ -28,9 +28,9 @@
         },
         ".widget-title": {
             "widget_title_html": "Latest Videos",
-            "widget_title_font_size": "29",
-            "widget_title_text_align": "left",
-            "widget_title_color": "rgba(172, 0, 0, 1)"
+            "widget_title_font_size": "38",
+            "widget_title_text_align": "center",
+            "widget_title_color": "rgba(0, 172, 73, 1)"
         }
     },
     "layout": "bootstrap",
