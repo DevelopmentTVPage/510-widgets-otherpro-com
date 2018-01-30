@@ -25,6 +25,12 @@
         ".carousel-arrow": {
             "carousel_arrow_background_color": "rgba(0, 0, 0, 1)",
             "carousel_arrow_hover_background_color": "rgba(0, 0, 0, 1)"
+        },
+        ".widget-title": {
+            "widget_title_html": "Latest Videos",
+            "widget_title_font_size": "29",
+            "widget_title_text_align": "left",
+            "widget_title_color": "rgba(172, 0, 0, 1)"
         }
     },
     "layout": "bootstrap",
