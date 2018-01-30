@@ -23,7 +23,7 @@
             "carousel_dot_hover_border_color": "rgba(255, 0, 0, 1)"
         },
         ".carousel-arrow": {
-            "carousel_arrow_background_color": "rgba(248, 0, 255, 1)",
+            "carousel_arrow_background_color": "rgba(0, 0, 0, 1)",
             "carousel_arrow_hover_background_color": "rgba(0, 0, 0, 1)"
         }
     },
