@@ -5,11 +5,101 @@
     "theme": "tvpage",
     "disablePathToLower": true,
     "enableRobotsTXT": true,
-    "galleryChannelIds": "139425228,130175096,130175097,130175096",
+    "galleryChannelIds": "139425228,130175096,130175097,130145629",
     "params": {
         "loginId": "1758927",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "otherpro.com"
+        "cookiedomain": "otherpro.com",
+        "tvppages" : {
+            "autoplay" : {
+                "for" : "player",
+                "type" : "boolean",
+                "label" : "Autoplay",
+                "code" : "autoplay",
+                "value" : true
+            },
+            "autoend" : {
+                "for" : "player",
+                "type" : "boolean",
+                "label" : "Autoend",
+                "code" : "autoend",
+                "value" : true
+            },
+            "channelgalleryids" : {
+                "type" : "text",
+                "label" : "Channel Gallery Ids",
+                "code" : "channelgalleryids",
+                "value" : "139425228,130175096,130175097,130145629"
+            },
+            "channelsliderids" : {
+                "type" : "text",
+                "label" : "Channel Slider Ids",
+                "code" : "channelsliderids",
+                "value" : "139425228,130175096,130175097,130145629"
+            },
+            "homechannelid" : {
+                "type" : "text",
+                "label" : "Home Channel Id",
+                "code" : "homechannelid",
+                "value" : "139425228"
+            },
+            "favicon" : {
+                "type" : "text",
+                "label" : "favicon",
+                "code" : "favicon",
+                "value" : "glb"
+            },
+            "player_version": {
+                "for": "player",
+                "type": "text",
+                "label": "Player Version",
+                "code": "player_version",
+                "value": "3.1.3"
+            }
+        }
+    },
+    "menu":{
+        "main" : [
+            {
+                "name" : "Health and Wellness Storefront",
+                "weight" : -90,
+                "identifier" : "health-and-wellness-storefront",
+                "url" : "/c/health-and-wellness-storefront/130175096"
+            },
+            {
+                "name" : "Lessman Brandpage",
+                "weight" : -100,
+                "identifier" : "lessman-brandpage",
+                "url" : "/c/lessman-brandpage/130175097"
+            },
+            {
+                "name" : "Demo Channel",
+                "weight" : -70,
+                "identifier" : "live-stream",
+                "url" : "/c/live-stream/139425228"
+            },
+            {
+                "name" : "Good Food Fast",
+                "weight" : -80,
+                "identifier" : "good-food-fast",
+                "url" : "/c/good-food-fast/130145629"
+            }
+        ],
+        "top" : [
+
+            {
+                "name" : "Subscribe",
+                "weight" : -110,
+                "identifier" : "subscribe",
+                "url" : "/#subscribe"
+            },
+            {
+                "name" : "Shop",
+                "weight" : -110,
+                "identifier" : "shop",
+                "url" : "/#shop"
+            }
+        ]
     }
 }
