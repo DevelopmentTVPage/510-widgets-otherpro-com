@@ -2,27 +2,139 @@
     "pageNumber": 0,
     "data": [
         {
-            "id": "139425227",
+            "id": "139425229",
             "title": "HSN Live",
-            "date_created": "1517274763",
+            "date_created": "1517286718",
             "loginId": "1758927",
             "tags": null,
-            "description": "test",
+            "description": "",
             "asset": {
                 "type": "mp4",
                 "type_stream": "live",
-                "hlsUrl": "https:\/\/c4af3793bf76b33c.mediapackage.us-west-2.amazonaws.com\/out\/v1\/4662296a0d7e44078873cc135b0d9c02\/index.m3u8",
-                "dashUrl": "https:\/\/c4af3793bf76b33c.mediapackage.us-west-2.amazonaws.com\/out\/v1\/e61e91b074ab4922bed66f36bd65bf03\/index.mpd",
+                "sources": [],
+                "hlsUrl": "https:\/\/3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com\/out\/v1\/5c9c608326454c948a62c7f3967e0252\/index.m3u8",
+                "dashUrl": "https:\/\/3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com\/out\/v1\/423e51d4683c4da79eca071cbffaf082\/index.mpd",
                 "live_status": "LIVE_STARTED",
                 "live_quality": "1080",
-                "status_url": "\/\/stage.tvpage.com\/api\/videos\/live\/status\/1758927\/139425227",
-                "uploadAsset": false,
-                "quality": "",
-                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1758927\/canvas\/1280\/719\/756926775-011280720.jpg",
-                "sources": []
+                "status_url": "\/\/stage.tvpage.com\/api\/videos\/live\/status\/1758927\/139425229",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1758927\/canvas\/1280\/719\/259859678-011280720.jpg"
             },
             "parentId": "139425228",
-            "url": "\/live-stream\/hsn-live\/139425228-139425227"
+            "url": "\/live-stream\/hsn-live\/139425228-139425229"
+        },
+        {
+            "id": "138422342",
+            "title": "HSN | As Seen On TV 01.20.2018 - 08 AM",
+            "date_created": "1516464636",
+            "loginId": "1758927",
+            "tags": "",
+            "description": "Discover home Infomercial featuring home, toys, and electronics, novelty, kitchen and auto products. Informerical usually consists of a 15 -30 presentation of the product and what it can do. Solving problems in the home, improve a problem with ease.\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/W_TYdA1Z4nY\/maxresdefault.jpg",
+                "uploadDate": 1516464636,
+                "videoId": "W_TYdA1Z4nY",
+                "title": "HSN | As Seen On TV 01.20.2018 - 08 AM",
+                "description": "Discover home Infomercial featuring home, toys, and electronics, novelty, kitchen and auto products. Informerical usually consists of a 15 -30 presentation of the product and what it can do. Solving problems in the home, improve a problem with ease.\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+                "author": "HSNtv",
+                "mediaDuration": 3600,
+                "prettyDuration": "01:00:00",
+                "views": "40"
+            },
+            "parentId": "139425228",
+            "url": "\/live-stream\/hsn-as-seen-on-tv-01-20-2018-08-am\/139425228-138422342"
+        },
+        {
+            "id": "138653158",
+            "title": "HSN | HSN Today: Kitchen Innovations featuring Debbie Meyer 01.22.2018 - 08 AM",
+            "date_created": "1516637168",
+            "loginId": "1758927",
+            "tags": "",
+            "description": "Discover innovation kitchen new products, create culinary concoction not compromising taste or time. Inventor, Entrepreneur and TV personality further increases her Line of patented products and her presence in the marketplace, and in our homes...... Her signature kitchen innovations solve ordinary household problems with out creating new ones.  1999 Debbie launched her 1st product CakeCutters on TV and the rest is history.\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ycZfAjT7HLU\/maxresdefault.jpg",
+                "uploadDate": 1516637168,
+                "videoId": "ycZfAjT7HLU",
+                "title": "HSN | HSN Today: Kitchen Innovations featuring Debbie Meyer 01.22.2018 - 08 AM",
+                "description": "Discover innovation kitchen new products, create culinary concoction not compromising taste or time. Inventor, Entrepreneur and TV personality further increases her Line of patented products and her presence in the marketplace, and in our homes...... Her signature kitchen innovations solve ordinary household problems with out creating new ones.  1999 Debbie launched her 1st product CakeCutters on TV and the rest is history.\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+                "author": "HSNtv",
+                "mediaDuration": 3600,
+                "prettyDuration": "01:00:00",
+                "views": "14"
+            },
+            "parentId": "139425228",
+            "url": "\/live-stream\/hsn-hsn-today-kitchen-innovations-featuring-debbie-meyer-01-22-2018-08-am\/139425228-138653158"
+        },
+        {
+            "id": "136390319",
+            "title": "The Monday Night Show with Adam Freeman 01.01.2018 - 08 PM",
+            "date_created": "1514865626",
+            "loginId": "1758927",
+            "tags": "",
+            "description": "HSN host Adam Freeman helps you discover new perspectives on established favorites and introduces you to a variety of new products and brands. Brands include Andrew Lessman Vitamins, ProForm and more. Watch a new episode of The Monday Night Show every Monday at 7 PM ET.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/sCODhWvP2HE\/maxresdefault.jpg",
+                "uploadDate": 1514865626,
+                "videoId": "sCODhWvP2HE",
+                "title": "HSN | The Monday Night Show with Adam Freeman 01.01.2018 - 08 PM",
+                "description": "Don't miss a moment of the fun every Monday night from 7pm to 9pm ET only on HSN and HSN.com.  http:\/\/goo.gl\/DjNZaA #n# Prices shown on the previously recorded video may not represent the current price. View hsn.com to view the current selling price.\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+                "author": "HSNtv",
+                "mediaDuration": 3600,
+                "prettyDuration": "01:00:00",
+                "views": "56",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "139425228",
+            "url": "\/live-stream\/hsn-the-monday-night-show-with-adam-freeman-01-01-2018-08-pm\/139425228-136390319"
+        },
+        {
+            "id": "138026471",
+            "title": "The Benefits of an Exercise Bike",
+            "date_created": "1516207541",
+            "loginId": "1758927",
+            "tags": "",
+            "description": "The Benefits of an Exercise Bike\n\nAn exercise bike may be a good fit for you if you're looking for a low impact workout where you can sit while working out! There are so many great features with an exercise bike - resistance options, multi-tasking while on a bike, and it's simple to just jump on the bike and exercise! \n\nShop all fitness on HSN.com: https:\/\/www.hsn.com\/shop\/health-and-fitness\/hf",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/SrYC-_JdL5I\/maxresdefault.jpg",
+                "uploadDate": 1516207541,
+                "videoId": "SrYC-_JdL5I",
+                "title": "The Benefits of an Exercise Bike",
+                "description": "The Benefits of an Exercise Bike",
+                "author": "HSNtv",
+                "mediaDuration": 158,
+                "prettyDuration": "00:02:38",
+                "views": "17",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "139425228",
+            "url": "\/live-stream\/the-benefits-of-an-exercise-bike\/139425228-138026471"
+        },
+        {
+            "id": "139408723",
+            "title": "HSN | ProForm Fitness 01.27.2018 - 08 PM",
+            "date_created": "1517112272",
+            "loginId": "1758927",
+            "tags": "",
+            "description": "Discover fitness, go for the goal, we're your guide on the journey to a fit and feel good lifestyle.Proform equipment has been empowering people around the world with in-home fitness since 1987. They're a trainer,competitor,engineer,fan,and teammate.\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Tkk2srdDhvI\/maxresdefault.jpg",
+                "uploadDate": 1517112272,
+                "videoId": "Tkk2srdDhvI",
+                "title": "HSN | ProForm Fitness 01.27.2018 - 08 PM",
+                "description": "Discover fitness, go for the goal, we're your guide on the journey to a fit and feel good lifestyle.Proform equipment has been empowering people around the world with in-home fitness since 1987. They're a trainer,competitor,engineer,fan,and teammate.\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+                "author": "HSNtv",
+                "mediaDuration": 3599,
+                "prettyDuration": "00:59:59",
+                "views": "76"
+            },
+            "parentId": "139425228",
+            "url": "\/live-stream\/hsn-proform-fitness-01-27-2018-08-pm\/139425228-139408723"
         }
     ]
 }

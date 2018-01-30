@@ -1,23 +1,24 @@
 {
-    "title": "Demo Channel",
-    "description": "",
+    "title": "Lessman Brandpage",
+    "description": null,
     "referenceId": null,
-    "date_created": "1517277523",
-    "date_modified": "1517288799",
+    "date_created": "1511298044",
+    "date_modified": "1516735831",
     "tags": null,
     "sourceId": null,
     "duration": null,
     "status": "pending",
     "visibility": "1",
-    "id": "139425228",
+    "id": "130175097",
     "loginId": "1758927",
     "entityType": "3",
-    "titleTextEncoded": "Live-Stream",
+    "titleTextEncoded": "Lessman-Brandpage",
     "category": null,
     "settings": {
         "canvasImage": "default_canvas3.jpg",
         "colorClass": "light",
-        "canvasType": "gallery"
+        "canvasType": "gallery",
+        "__SMARTLIST__": ""
     },
     "transcripts": null
 }
