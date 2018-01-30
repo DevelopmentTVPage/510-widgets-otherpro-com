@@ -24,7 +24,7 @@
         },
         ".carousel-arrow": {
             "carousel_arrow_background_color": "rgba(248, 0, 255, 1)",
-            "carousel_arrow_hover_background_color": "rgba(0, 255, 12, 1)"
+            "carousel_arrow_hover_background_color": "rgba(0, 0, 0, 1)"
         }
     },
     "layout": "bootstrap",
