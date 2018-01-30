@@ -1,0 +1,101 @@
+{
+    "title": "Benefit Brow Zings Eye Shaping Kit Shade 03 - Medium.mp4",
+    "description": "Benefit Brow Zings Eye Shaping Kit Shade 03 - Medium",
+    "referenceId": "51cde25c70540fa846578520bcbd0ac3",
+    "date_created": "1498868528",
+    "date_modified": "1498869014",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "67",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productinfo",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "102374389",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Benefit-Brow-Zings-Eye-Shaping-Kit-Shade-03-Medium-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "67",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "67",
+        "prettyDuration": "00:01:07",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/102374389\/63fe7\/thumb-51cde25c70540fa846578520bcbd0ac3-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374389\/63fe7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374389\/63fe7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374389\/63fe7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374389\/63fe7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374389\/63fe7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/102374389\/63fe7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/102374389\/63fe7\/media.m3u8"
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4",
+        "28"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 74.87719,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "134"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 128.52017
+}

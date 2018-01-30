@@ -1,0 +1,62 @@
+{
+    "title": "Ming Tsai - Behind the Brand",
+    "description": "Chef Ming Tsai brings his professional take on kitchen tools that'll make cooking a pleasure. \n\nShop Simply Ming at HSN: https:\/\/www.hsn.com\/shop\/ming-tsai\/11559",
+    "referenceId": "NTIQz0RtMIs",
+    "date_created": "1395176174",
+    "date_modified": "1501682043",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": "kitchen_food",
+    "series": null,
+    "video_type": "behind_the_brand",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "91797266",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Ming-Tsai",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/NTIQz0RtMIs\/hqdefault.jpg",
+        "uploadDate": 1395176174,
+        "videoId": "NTIQz0RtMIs",
+        "title": "HSN | Ming Tsai",
+        "description": "",
+        "author": "HSN",
+        "mediaDuration": 30,
+        "prettyDuration": "00:00:30",
+        "views": "799",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-17"
+        }
+    },
+    "tvp_profiles": [
+        "14",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 3868.045,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "210"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 101.73525
+}

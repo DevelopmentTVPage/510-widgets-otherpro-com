@@ -1,0 +1,100 @@
+{
+    "title": "Smashbox Halo Hydrating Perfecting Powder - LightNeutral.mp4",
+    "description": "Smashbox Halo Hydrating Perfecting Powder - LightNeutral.mp4",
+    "referenceId": "6a0a80d40b79a0a5f2f1d491669f2b01",
+    "date_created": "1497572262",
+    "date_modified": "1497572785",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "376",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "85",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99059290",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Smashbox-Halo-Hydrating-Perfecting-Powder-LightNeutral-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "376",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "376",
+        "prettyDuration": "00:06:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99059290\/bcb05\/thumb-6a0a80d40b79a0a5f2f1d491669f2b01-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99059290\/bcb05\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99059290\/bcb05\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99059290\/bcb05\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99059290\/bcb05\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99059290\/bcb05\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99059290\/bcb05\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99059290\/bcb05\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-10-20\"}}}",
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 9999,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "134"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 8216.659
+}

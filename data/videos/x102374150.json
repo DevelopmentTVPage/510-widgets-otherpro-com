@@ -1,0 +1,100 @@
+{
+    "title": "Sevilla Silver&trade; Adjustable Graduated Bead Necklace.mp4",
+    "description": "Sevilla Silver&trade; Adjustable Graduated Bead Necklace",
+    "referenceId": "f330c474c502476508a7d53efef71ead",
+    "date_created": "1498859486",
+    "date_modified": "1498860253",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "279",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "top10faves",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "102374150",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Sevilla-Silver-trade-Adjustable-Graduated-Bead-Necklace-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "279",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "279",
+        "prettyDuration": "00:04:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/102374150\/610a2\/thumb-f330c474c502476508a7d53efef71ead-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/102374150\/610a2\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/102374150\/610a2\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374150\/610a2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374150\/610a2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374150\/610a2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374150\/610a2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102374150\/610a2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "20"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 7599.244,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "154"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 25037.646
+}

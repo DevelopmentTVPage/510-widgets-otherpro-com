@@ -1,0 +1,61 @@
+{
+    "title": "Healthy Thoughts, Healthy Brain",
+    "description": "Andrew Lessman: Healthy Thoughts, Healthy Brain\nShop all Andrew Lessman on HSN.com: https:\/\/www.hsn.com\/shop\/andrew-lessman\/129",
+    "referenceId": "-hcN-8DfpAw",
+    "date_created": "1501775923",
+    "date_modified": "1511274789",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "948",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "11",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": "wellness1",
+    "category6": null,
+    "series": null,
+    "video_type": null,
+    "storefront": "health_and_wellness_storefront",
+    "gemstone_guide": null,
+    "id": "112328190",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Healthy-Thoughts-Healthy-Brain",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/-hcN-8DfpAw\/hqdefault.jpg",
+        "uploadDate": 1501775923,
+        "videoId": "-hcN-8DfpAw",
+        "title": "Healthy Thoughts, Healthy Brain",
+        "description": "Andrew Lessman: Healthy Thoughts, Healthy Brain",
+        "author": "HSNtv",
+        "mediaDuration": 948,
+        "prettyDuration": "00:15:48",
+        "views": "137",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-01"
+        }
+    },
+    "tvp_profiles": [
+        "16"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 76.114685,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "100"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 54.839622
+}

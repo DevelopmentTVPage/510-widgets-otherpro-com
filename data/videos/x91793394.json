@@ -1,0 +1,64 @@
+{
+    "title": "Grilled Salmon Salad - Good Food Fast",
+    "description": "Recipe for grilled salmon salad. Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya",
+    "referenceId": "00aHALs3hUc",
+    "date_created": "1466623858",
+    "date_modified": "1499888406",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "43",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "79",
+    "CVV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": "food",
+    "category6": "kitchen_food",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": "good_food_fast",
+    "gemstone_guide": null,
+    "id": "91793394",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Good-Food-Fast-Grilled-Salmon-Salad",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/00aHALs3hUc\/hqdefault.jpg",
+        "uploadDate": 1466623858,
+        "videoId": "00aHALs3hUc",
+        "title": "HSN | Good Food Fast: Grilled Salmon Salad",
+        "description": "Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya\n\nLearn how to make our recipes.",
+        "author": "HSN",
+        "mediaDuration": 43,
+        "prettyDuration": "00:00:43",
+        "views": "235",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-22"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-12-23"
+        }
+    },
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 1596.5424,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "228"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 339.48108
+}

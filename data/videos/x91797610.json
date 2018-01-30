@@ -1,0 +1,61 @@
+{
+    "title": "Concierge Collection - Behind the Brand",
+    "description": "Concierge Collection is simply classic. Find the bed and bath essentials you need in this collection. \n\nShop Concierge Collection at HSN: https:\/\/www.hsn.com\/shop\/concierge-collection-bed-and-bath\/ho0001-1451",
+    "referenceId": "mdXhK5N1hJE",
+    "date_created": "1394776838",
+    "date_modified": "1502206624",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": "home_electronics",
+    "series": null,
+    "video_type": "behind_the_brand",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "91797610",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Concierge-Collection",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/mdXhK5N1hJE\/hqdefault.jpg",
+        "uploadDate": 1394776838,
+        "videoId": "mdXhK5N1hJE",
+        "title": "HSN | Concierge Collection",
+        "description": "Shop the entire collection at http:\/\/www.hsn.com\/shop\/concierge-collection\/1451?rid=371&query=concierge%20collection&isSuggested=False&",
+        "author": "HSN",
+        "mediaDuration": 30,
+        "prettyDuration": "00:00:30",
+        "views": "368",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-14"
+        }
+    },
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 3365.292,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "119"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 2700.1643
+}

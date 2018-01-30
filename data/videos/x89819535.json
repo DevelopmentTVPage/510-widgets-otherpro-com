@@ -1,0 +1,64 @@
+{
+    "title": "Fried Goat Cheese Salad - Good Food Fast",
+    "description": "Recipe for fried goat cheese salad. Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya",
+    "referenceId": "Xzqzio4lrdA",
+    "date_created": "1494005985",
+    "date_modified": "1502805864",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "57",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "86",
+    "CVV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": "food",
+    "category6": "kitchen_food",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": "good_food_fast",
+    "gemstone_guide": null,
+    "id": "89819535",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Good-Food-Fast-Fried-Goat-Cheese-Salad",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Xzqzio4lrdA\/hqdefault.jpg",
+        "uploadDate": 1494005985,
+        "videoId": "Xzqzio4lrdA",
+        "title": "HSN | Good Food Fast: Fried Goat Cheese Salad",
+        "description": "Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya\n\nLearn how to make our recipes.",
+        "author": "HSN",
+        "mediaDuration": 57,
+        "prettyDuration": "00:00:57",
+        "views": "56",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-22"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-12-23"
+        }
+    },
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 863.64484,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "228"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 339.48108
+}

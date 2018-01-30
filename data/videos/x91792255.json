@@ -1,0 +1,61 @@
+{
+    "title": "Finance 101 with Suze Orman",
+    "description": "Keep your finances healthy with expert tips on debt, insurance, investing, and IRAs from Suze Orman!\n\nShop Suze at HSN: https:\/\/www.hsn.com\/shop\/suze-orman\/14324",
+    "referenceId": "oXB6wVsZs6w",
+    "date_created": "1485376656",
+    "date_modified": "1502133434",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "696",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": "wellness1",
+    "category6": "wellness",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "91792255",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Finance-101",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/oXB6wVsZs6w\/hqdefault.jpg",
+        "uploadDate": 1485376656,
+        "videoId": "oXB6wVsZs6w",
+        "title": "Finance 101",
+        "description": "Keep your finances healthy with expert tips on debt, insurance, and IRAs from Suze Orman!",
+        "author": "HSN",
+        "mediaDuration": 696,
+        "prettyDuration": "00:11:36",
+        "views": "124",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-11-17"
+        }
+    },
+    "tvp_profiles": [
+        "6"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 7682.1494,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1569"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 8159.889
+}

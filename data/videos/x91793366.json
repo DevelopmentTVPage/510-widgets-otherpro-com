@@ -1,0 +1,61 @@
+{
+    "title": "Ahi Tuna Poke Bowl - Good Food Fast",
+    "description": "Recipe for ahi tuna poke bowl. Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya",
+    "referenceId": "KxnJYCrlvfw",
+    "date_created": "1467148211",
+    "date_modified": "1504289280",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "49",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "91",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": "food",
+    "category6": "kitchen_food",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": "good_food_fast",
+    "gemstone_guide": null,
+    "id": "91793366",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Good-Food-Fast-Ahi-Tuna-Poke-Bowl",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/KxnJYCrlvfw\/hqdefault.jpg",
+        "uploadDate": 1467148211,
+        "videoId": "KxnJYCrlvfw",
+        "title": "HSN | Good Food Fast: Ahi Tuna Poke Bowl",
+        "description": "Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya\n\nLearn how to make our recipes.",
+        "author": "HSN",
+        "mediaDuration": 49,
+        "prettyDuration": "00:00:49",
+        "views": "466",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-22"
+        }
+    },
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 807.5453,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "919"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 5651.946
+}

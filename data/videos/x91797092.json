@@ -1,0 +1,62 @@
+{
+    "title": "HSN Jeans Shop - How to Wear Your Jeans",
+    "description": "The HSN Jeans Shop shows you how to style and accessorize your perfect pair of jeans. \n\nShop and find your HSN Jeans: http:\/\/goo.gl\/vPsIDX",
+    "referenceId": "94tGXitqfJE",
+    "date_created": "1395337193",
+    "date_modified": "1500990228",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "40",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "10",
+    "CVV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": "fashion_accessories1",
+    "living": null,
+    "category6": "fashion_accessories",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "91797092",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Jeans-Shop-How-to-wear",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/94tGXitqfJE\/hqdefault.jpg",
+        "uploadDate": 1395337193,
+        "videoId": "94tGXitqfJE",
+        "title": "HSN | Jeans Shop | How to wear",
+        "description": ".\nSHOP THE VIDEO\nor http:\/\/goo.gl\/vPsIDX",
+        "author": "HSN",
+        "mediaDuration": 40,
+        "prettyDuration": "00:00:40",
+        "views": "374",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-08"
+        }
+    },
+    "tvp_profiles": [
+        "9",
+        "28"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 12322.63,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "405"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 8520.777
+}

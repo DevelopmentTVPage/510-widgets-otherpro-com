@@ -1,0 +1,60 @@
+{
+    "title": "Turmeric - January Monthly Special",
+    "description": "Andrew Lessman January Monthly Special - Turmeric\n\nShop all Andrew Lessman on HSN.com: https:\/\/www.hsn.com\/shop\/andrew-lessman\/129",
+    "referenceId": "98IpMu2Eolg",
+    "date_created": "1514506195",
+    "date_modified": "1514566444",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "530",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "97",
+    "CVV_VI": "21",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": null,
+    "storefront": "lessman_monthly_special",
+    "gemstone_guide": null,
+    "id": "135449085",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Tumeric-January-Monthly-Special",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/98IpMu2Eolg\/maxresdefault.jpg",
+        "uploadDate": 1514506195,
+        "videoId": "98IpMu2Eolg",
+        "title": "Tumeric January Monthly Special",
+        "description": "Andrew Lessman January Monthly Special- Turmeric",
+        "author": "HSNtv",
+        "mediaDuration": 530,
+        "prettyDuration": "00:08:50",
+        "views": "1",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-25"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-01-16"
+        }
+    },
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": ""
+}

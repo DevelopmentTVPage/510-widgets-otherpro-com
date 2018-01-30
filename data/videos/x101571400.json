@@ -1,0 +1,100 @@
+{
+    "title": "Ecolution 32oz Glass Teapot with 6 Blooming Teas.mp4",
+    "description": "Ecolution 32oz Glass Teapot with 6 Blooming Teas",
+    "referenceId": "71b552930fca5926303dd29ec1b5fa06",
+    "date_created": "1498602511",
+    "date_modified": "1498603029",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "611",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "101571400",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Ecolution-32oz-Glass-Teapot-with-6-Blooming-Teas-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "611",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "611",
+        "prettyDuration": "00:10:11",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/101571400\/8c8c1\/thumb-71b552930fca5926303dd29ec1b5fa06-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/101571400\/8c8c1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/101571400\/8c8c1\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571400\/8c8c1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571400\/8c8c1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571400\/8c8c1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571400\/8c8c1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571400\/8c8c1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "30"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 4130.0376,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "196"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 51956.11
+}

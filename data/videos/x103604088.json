@@ -1,0 +1,99 @@
+{
+    "title": "Molly's Suds 140-Load All-Natural Laundry Powder.mp4",
+    "description": "",
+    "referenceId": "e782c4919e9ff27e99519e968cb97fb3",
+    "date_created": "1499367195",
+    "date_modified": "1499367548",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "771",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": null,
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "103604088",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Molly-s-Suds-140-Load-All-Natural-Laundry-Powder-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "771",
+            "width": 724,
+            "height": 408
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103604088\/52460\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103604088\/52460\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103604088\/52460\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103604088\/52460\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103604088\/52460\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "771",
+        "prettyDuration": "00:12:51",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/103604088\/52460\/thumb-e782c4919e9ff27e99519e968cb97fb3-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/103604088\/52460\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/103604088\/52460\/media.m3u8"
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "16",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 193.11586,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "164"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 1640.4772
+}

@@ -1,0 +1,100 @@
+{
+    "title": "PusH20 Dual Tap Push-Button Faucet Splitter.mp4",
+    "description": "PusH20 Dual Tap Push-Button Faucet Splitter",
+    "referenceId": "9020280fb2a718862b41195c977af8cd",
+    "date_created": "1499452134",
+    "date_modified": "1499452521",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "339",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "103861730",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "PusH20-Dual-Tap-Push-Button-Faucet-Splitter-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "339",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "339",
+        "prettyDuration": "00:05:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/103861730\/62d3a\/thumb-9020280fb2a718862b41195c977af8cd-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861730\/62d3a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861730\/62d3a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861730\/62d3a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861730\/62d3a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861730\/62d3a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "34",
+        "18",
+        "30"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 104.07475,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "478"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 7410.178
+}

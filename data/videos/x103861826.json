@@ -1,0 +1,100 @@
+{
+    "title": "Jay King Graduated Tanzanite Bead Sterling Silver 18 Necklace.mp4",
+    "description": "Jay King Graduated Tanzanite Bead Sterling Silver 18 Necklace",
+    "referenceId": "5c8159f1194a3dc6331de129b951fc2b",
+    "date_created": "1499458983",
+    "date_modified": "1499459442",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "434",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "103861826",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Jay-King-Graduated-Tanzanite-Bead-Sterling-Silver-18-Necklace-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "434",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "434",
+        "prettyDuration": "00:07:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/103861826\/b1a61\/thumb-5c8159f1194a3dc6331de129b951fc2b-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/103861826\/b1a61\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/103861826\/b1a61\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861826\/b1a61\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861826\/b1a61\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861826\/b1a61\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861826\/b1a61\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103861826\/b1a61\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "20"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 549.6781,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "154"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 24901.766
+}

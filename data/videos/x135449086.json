@@ -1,0 +1,60 @@
+{
+    "title": "Andrew Lessman's January Monthly Specials",
+    "description": "Andrew Lessman's January Monthly Specials!\nShop all Andrew Lessman on HSN.com: https:\/\/www.hsn.com\/shop\/andrew-lessman\/129",
+    "referenceId": "TJQjGaO9FpU",
+    "date_created": "1514504877",
+    "date_modified": "1514566436",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "124",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "106",
+    "CVV_VI": "31",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": null,
+    "storefront": "lessman_monthly_special",
+    "gemstone_guide": null,
+    "id": "135449086",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Andrew-Lessman-January-Monthly-Specials",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/TJQjGaO9FpU\/maxresdefault.jpg",
+        "uploadDate": 1514504877,
+        "videoId": "TJQjGaO9FpU",
+        "title": "Andrew Lessman January Monthly Specials",
+        "description": "Andrew Lessman January Monthly Specials",
+        "author": "HSNtv",
+        "mediaDuration": 124,
+        "prettyDuration": "00:02:04",
+        "views": "2",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-25"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-01-22"
+        }
+    },
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": ""
+}

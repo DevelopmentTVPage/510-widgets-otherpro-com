@@ -1,0 +1,100 @@
+{
+    "title": "Safavieh Clarity 6 Spring Mattress - Queen.mp4",
+    "description": "Safavieh Clarity 6 Spring Mattress - Queen",
+    "referenceId": "e6391c49a4b1ad9d1b2c7e17030bbb63",
+    "date_created": "1498586175",
+    "date_modified": "1498587322",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "72",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productinfo",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "101570739",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Safavieh-Clarity-6-Spring-Mattress-Queen-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "72",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "72",
+        "prettyDuration": "00:01:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/101570739\/e6af7\/thumb-e6391c49a4b1ad9d1b2c7e17030bbb63-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/101570739\/e6af7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/101570739\/e6af7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101570739\/e6af7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101570739\/e6af7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101570739\/e6af7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101570739\/e6af7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101570739\/e6af7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 54.339607,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "119"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 139.02023
+}

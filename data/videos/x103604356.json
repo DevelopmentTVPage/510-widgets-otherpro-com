@@ -1,0 +1,104 @@
+{
+    "title": "Contours Rx&trade; LIDS BY DESIGN&trade; 3mm Eyelid Strips.mp4",
+    "description": "Contours Rx&trade; LIDS BY DESIGN&trade; 3mm Eyelid Strips",
+    "referenceId": "9f79092e1190f4285075f258f4f6e84e",
+    "date_created": "1499381746",
+    "date_modified": "1499382099",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "71",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productinfo",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "103604356",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Contours-Rx-trade-LIDS-BY-DESIGN-trade-3mm-Eyelid-Strips-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "71",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "71",
+        "prettyDuration": "00:01:11",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/103604356\/3b154\/thumb-9f79092e1190f4285075f258f4f6e84e-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103604356\/3b154\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103604356\/3b154\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103604356\/3b154\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103604356\/3b154\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/103604356\/3b154\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-20"
+        }
+    },
+    "tvp_profiles": [
+        "4",
+        "28",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 40.335434,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "218"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 56663.7
+}

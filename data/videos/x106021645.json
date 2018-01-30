@@ -1,0 +1,103 @@
+{
+    "title": "Living Well with Montel Targeted Body Muscle Toner.mp4",
+    "description": "Living Well with Montel Targeted Body Muscle Toner",
+    "referenceId": "19a03cf66c7c19dd05b1563d4da8c41d",
+    "date_created": "1500505563",
+    "date_modified": "1500505937",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "848",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "106021645",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Living-Well-with-Montel-Targeted-Body-Muscle-Toner-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "848",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "848",
+        "prettyDuration": "00:14:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/106021645\/27242\/thumb-19a03cf66c7c19dd05b1563d4da8c41d-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/106021645\/27242\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/106021645\/27242\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/106021645\/27242\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/106021645\/27242\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/106021645\/27242\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-17"
+        }
+    },
+    "tvp_profiles": [
+        "9",
+        "20"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 143.43443,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "527"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 38772.586
+}

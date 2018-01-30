@@ -1,0 +1,98 @@
+{
+    "title": "Kahwa Coffee Sirocco Blend Whole Bean Medium Dark Roast 3-pack.mp4",
+    "description": "Kahwa Coffee Sirocco Blend Whole Bean Medium Dark Roast 3-pack",
+    "referenceId": "9ed0ed7c307bca92fb534719dbef0261",
+    "date_created": "1498841985",
+    "date_modified": "1498842360",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "386",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "102373834",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Kahwa-Coffee-Sirocco-Blend-Whole-Bean-Medium-Dark-Roast-3-pack-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "386",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "386",
+        "prettyDuration": "00:06:26",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/102373834\/65318\/thumb-9ed0ed7c307bca92fb534719dbef0261-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373834\/65318\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373834\/65318\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373834\/65318\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373834\/65318\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373834\/65318\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2805.3843,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "107"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 65289.78
+}

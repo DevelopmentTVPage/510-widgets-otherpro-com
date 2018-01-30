@@ -1,0 +1,100 @@
+{
+    "title": "Marine Collagen Peptides - 30 Servings.mp4",
+    "description": "Marine Collagen Peptides - 30 Servings",
+    "referenceId": "8557488cd53c9a7483297de3bc25df57",
+    "date_created": "1497478144",
+    "date_modified": "1497479061",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "477",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "23",
+    "CVV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "98938154",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Marine-Collagen-Peptides-30-Servings-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "477",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "477",
+        "prettyDuration": "00:07:57",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/98938154\/1f98c\/thumb-8557488cd53c9a7483297de3bc25df57-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/98938154\/1f98c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/98938154\/1f98c\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/98938154\/1f98c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/98938154\/1f98c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/98938154\/1f98c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/98938154\/1f98c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/98938154\/1f98c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-10-20\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
+    "tvp_profiles": [
+        "16"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 9999,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "100"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 19730.13
+}

@@ -1,0 +1,64 @@
+{
+    "title": "What is Android?",
+    "description": "Android is an Operating System (OS) designed for touchscreen mobile devices. \nShop electronics at HSN: https:\/\/www.hsn.com\/shop\/electronics\/ec",
+    "referenceId": "LE-Vzl2AmHQ",
+    "date_created": "1398285583",
+    "date_modified": "1502113999",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "51",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "6",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": "home_electronics",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "91795730",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-What-is-Android",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/LE-Vzl2AmHQ\/hqdefault.jpg",
+        "uploadDate": 1398285583,
+        "videoId": "LE-Vzl2AmHQ",
+        "title": "HSN | What is Android?",
+        "description": "SHOP HSN's INNOVATION EVENT! http:\/\/goo.gl\/IpMYXG",
+        "author": "HSN",
+        "mediaDuration": 51,
+        "prettyDuration": "00:00:51",
+        "views": "539",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-23"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-11-23"
+        }
+    },
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 735.9207,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "166"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 118.73005
+}

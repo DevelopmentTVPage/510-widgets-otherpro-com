@@ -1,0 +1,101 @@
+{
+    "title": "Perlier 13.5 fl. oz. Honey Anti-Age Body Balm.mp4",
+    "description": "Perlier 13.5 fl. oz. Honey Anti-Age Body Balm",
+    "referenceId": "db2a0b4d2eaadfb3fbae518e8d9502c3",
+    "date_created": "1497628696",
+    "date_modified": "1497628984",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "254",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "top10faves",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99349162",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Perlier-13-5-fl-oz-Honey-Anti-Age-Body-Balm-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "254",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "254",
+        "prettyDuration": "00:04:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99349162\/d68ed\/thumb-db2a0b4d2eaadfb3fbae518e8d9502c3-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99349162\/d68ed\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99349162\/d68ed\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349162\/d68ed\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349162\/d68ed\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349162\/d68ed\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349162\/d68ed\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349162\/d68ed\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4",
+        "15"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 3110.4282,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "170"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 50141.586
+}

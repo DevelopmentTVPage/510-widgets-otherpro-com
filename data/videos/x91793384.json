@@ -1,0 +1,61 @@
+{
+    "title": "Cherries Jubilee - Good Food Fast",
+    "description": "Recipe for cherries jubilee. Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya",
+    "referenceId": "A0tXY1LRS08",
+    "date_created": "1466690117",
+    "date_modified": "1509736911",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "35",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "205",
+    "CVV_VI": "23",
+    "engagement_score": null,
+    "conversion_score": "1",
+    "style": null,
+    "living": "food",
+    "category6": "kitchen_food",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": "nov_2017_cooks_event",
+    "gemstone_guide": null,
+    "id": "91793384",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Good-Food-Fast-Cherries-Jubilee",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/A0tXY1LRS08\/hqdefault.jpg",
+        "uploadDate": 1466690117,
+        "videoId": "A0tXY1LRS08",
+        "title": "HSN | Good Food Fast: Cherries Jubilee",
+        "description": "Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya\n\nLearn how to make our recipes.",
+        "author": "HSN",
+        "mediaDuration": 35,
+        "prettyDuration": "00:00:35",
+        "views": "254",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-19"
+        }
+    },
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 1569.8945,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "228"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 339.48108
+}

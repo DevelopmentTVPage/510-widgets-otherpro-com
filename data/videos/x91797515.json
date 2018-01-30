@@ -1,0 +1,61 @@
+{
+    "title": "Samantha Brown - Functional Luggage for Every Traveler",
+    "description": "Travel expert Samantha Brown offers luggage and accessories that help you arrive in style. \nShop the collection at HSN: https:\/\/www.hsn.com\/shop\/samantha-brown\/8290",
+    "referenceId": "NQDjhcdf-qU",
+    "date_created": "1394776795",
+    "date_modified": "1502218384",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "40",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": "home_electronics",
+    "series": null,
+    "video_type": "behind_the_brand",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "91797515",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Samantha-Brown-promo",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/NQDjhcdf-qU\/hqdefault.jpg",
+        "uploadDate": 1394776795,
+        "videoId": "NQDjhcdf-qU",
+        "title": "HSN | Samantha Brown promo",
+        "description": "Shop the entire collection at http:\/\/www.hsn.com\/shop\/samantha-brown-luggage\/ho0235-8290?rid=2012&query=samantha%20brown&isSuggested=False&",
+        "author": "HSN",
+        "mediaDuration": 40,
+        "prettyDuration": "00:00:40",
+        "views": "654",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-23"
+        }
+    },
+    "tvp_profiles": [
+        "21"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 6288.189,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1092"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 4479.901
+}

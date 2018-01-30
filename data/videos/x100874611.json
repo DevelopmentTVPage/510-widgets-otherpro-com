@@ -1,0 +1,63 @@
+{
+    "title": "Keep Your Gadgets Updated - Steve Greenberg",
+    "description": "Steve Greenberg discusses benefits of keeping your gadgets updated to maintain functionality. Shop HSN Connected Life at https:\/\/goo.gl\/sjTNLP",
+    "referenceId": "rMpZrjwMbYA",
+    "date_created": "1498248803",
+    "date_modified": "1501528755",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "49",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "51",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": "wellness1",
+    "category6": "home_electronics",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": "connected_life1",
+    "gemstone_guide": null,
+    "id": "100874611",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Connected-Life-Keep-Your-Gadgets-Updated",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758927\/canvas\/1279\/716\/108331036-021279718.JPG",
+        "uploadDate": 1498248803,
+        "videoId": "rMpZrjwMbYA",
+        "title": "HSN | Connected Life: Keep Your Gadgets Updated",
+        "description": "Shop HSN Connected Life at https:\/\/goo.gl\/sjTNLP\n\nLearn how to get connected.",
+        "author": "HSN",
+        "mediaDuration": 49,
+        "prettyDuration": "00:00:49",
+        "views": "9",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-12-17"
+        }
+    },
+    "tvp_profiles": [
+        "11",
+        "12",
+        "18"
+    ],
+    "tvp_profiles_manual": true,
+    "tvp_profiles_maxscore": 373.68494,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "154"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 37.05986
+}

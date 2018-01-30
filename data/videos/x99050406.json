@@ -1,0 +1,100 @@
+{
+    "title": "Perlier Imperial Honey Body Butter.mp4",
+    "description": "",
+    "referenceId": "a5a4b393c3b36f6e6e4e3575152676a8",
+    "date_created": "1497550258",
+    "date_modified": "1503424548",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "1091",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": null,
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99050406",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Perlier-Imperial-Honey-Body-Butter-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1091",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "1091",
+        "prettyDuration": "00:18:11",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99050406\/3ffcb\/thumb-a5a4b393c3b36f6e6e4e3575152676a8-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99050406\/3ffcb\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99050406\/3ffcb\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99050406\/3ffcb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99050406\/3ffcb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99050406\/3ffcb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99050406\/3ffcb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99050406\/3ffcb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "20"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 20.390282,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "170"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 675.4805
+}

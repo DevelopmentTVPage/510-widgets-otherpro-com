@@ -1,0 +1,63 @@
+{
+    "title": "Learning All About Windows 10",
+    "description": "Techxpert Stephanie Duchaine reviews the Windows 10 pperating system and shows off its features. \nFor more visit HSN.com: http:\/\/goo.gl\/ieh7M8",
+    "referenceId": "3dvNcmnpQng",
+    "date_created": "1436886655",
+    "date_modified": "1501856212",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "130",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": "home_electronics",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "91794013",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Windows-10",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/3dvNcmnpQng\/hqdefault.jpg",
+        "uploadDate": 1436886655,
+        "videoId": "3dvNcmnpQng",
+        "title": "HSN | Windows 10",
+        "description": "For more visit HSN.com\nhttp:\/\/goo.gl\/ieh7M8",
+        "author": "HSN",
+        "mediaDuration": 130,
+        "prettyDuration": "00:02:10",
+        "views": "1029",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-07"
+        }
+    },
+    "tvp_profiles": [
+        "26",
+        "32",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 3767.3352,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "166"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 2739.6892
+}

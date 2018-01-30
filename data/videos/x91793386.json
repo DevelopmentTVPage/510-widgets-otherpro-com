@@ -1,0 +1,64 @@
+{
+    "title": "Parmesan + Spinach Scrambled Eggs - Good Food Fast",
+    "description": "Recipe for parmesan and spinach scrambled eggs. Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya",
+    "referenceId": "UDLG12C55OY",
+    "date_created": "1466689836",
+    "date_modified": "1499888873",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "87",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": "food",
+    "category6": "kitchen_food",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": "good_food_fast",
+    "gemstone_guide": null,
+    "id": "91793386",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Good-Food-Fast-Parmesan-Spinach-Scrambled-Eggs",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/UDLG12C55OY\/hqdefault.jpg",
+        "uploadDate": 1466689836,
+        "videoId": "UDLG12C55OY",
+        "title": "HSN | Good Food Fast: Parmesan + Spinach Scrambled Eggs",
+        "description": "Shop HSN Kitchen & Food at https:\/\/goo.gl\/5d0Gya\n\nLearn how to make our recipes.",
+        "author": "HSN",
+        "mediaDuration": 30,
+        "prettyDuration": "00:00:30",
+        "views": "440",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-12-02"
+        },
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-22"
+        }
+    },
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 1581.8422,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "228"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 339.48108
+}

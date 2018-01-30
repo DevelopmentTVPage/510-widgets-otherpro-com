@@ -1,0 +1,101 @@
+{
+    "title": "Certified Organic Egyptian Chamomile Tea - 90 Sachets.mp4",
+    "description": "Certified Organic Egyptian Chamomile Tea - 90 Sachets",
+    "referenceId": "ebe897720cb94665fa227fc9d4b4a7bf",
+    "date_created": "1497981285",
+    "date_modified": "1497981596",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "134",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "quicklook",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99914948",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Certified-Organic-Egyptian-Chamomile-Tea-90-Sachets-2-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "134",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "134",
+        "prettyDuration": "00:02:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99914948\/e12c5\/thumb-ebe897720cb94665fa227fc9d4b4a7bf-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99914948\/e12c5\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99914948\/e12c5\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99914948\/e12c5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99914948\/e12c5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99914948\/e12c5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99914948\/e12c5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99914948\/e12c5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-10-20\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
+    "tvp_profiles": [
+        "4",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 50.139545,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "100"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 22345.78
+}

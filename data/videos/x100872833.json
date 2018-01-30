@@ -1,0 +1,105 @@
+{
+    "title": "Char-Broil Digital Electric Smoker Deluxe.mp4",
+    "description": "Char-Broil Digital Electric Smoker Deluxe",
+    "referenceId": "95bbbe2b48c4edecac1e8289bffdd529",
+    "date_created": "1498243134",
+    "date_modified": "1498243596",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "80",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productinfo",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "100872833",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Char-Broil-Digital-Electric-Smoker-Deluxe-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "80",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "80",
+        "prettyDuration": "00:01:20",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/100872833\/cdc67\/thumb-95bbbe2b48c4edecac1e8289bffdd529-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/100872833\/cdc67\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/100872833\/cdc67\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100872833\/cdc67\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100872833\/cdc67\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100872833\/cdc67\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100872833\/cdc67\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100872833\/cdc67\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-16"
+        }
+    },
+    "tvp_profiles": [
+        "14",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 5464.934,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "967"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 35844.402
+}

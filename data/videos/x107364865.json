@@ -1,0 +1,60 @@
+{
+    "title": "Too Faced Howto Daytime",
+    "description": "Global Artistry Expert, Elyse Reneau, discusses how to use the Too Faced Peach Pallette. These five helpful steps will help your look last all night.",
+    "referenceId": "NOEh504OOew",
+    "date_created": "1501613480",
+    "date_modified": "1501616121",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "45",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "CVV_VI": "5",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": "beauty2",
+    "living": null,
+    "category6": "beauty1",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "107364865",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Too-Faced-Howto-Daytime",
+    "category": null,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "HSNtv",
+        "hdvFlag": 1,
+        "description": "Too Faced How-to Daytime",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/NOEh504OOew\/hqdefault.jpg",
+        "videoId": "NOEh504OOew",
+        "mediaDuration": 45,
+        "prettyDuration": "00:00:45",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-25"
+        }
+    },
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 4041.7627,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "134"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 4639.273
+}

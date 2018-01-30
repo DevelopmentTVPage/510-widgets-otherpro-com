@@ -1,0 +1,101 @@
+{
+    "title": "BeautyRx by Dr. Schultz Soothing Moisture Cream.mp4",
+    "description": "BeautyRx by Dr. Schultz Soothing Moisture Cream",
+    "referenceId": "98382161f70a4df486a2d7465ec25b18",
+    "date_created": "1498689159",
+    "date_modified": "1498689499",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "265",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "102142942",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "BeautyRx-by-Dr-Schultz-Soothing-Moisture-Cream-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "265",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "265",
+        "prettyDuration": "00:04:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/102142942\/ccf22\/thumb-98382161f70a4df486a2d7465ec25b18-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/102142942\/ccf22\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/102142942\/ccf22\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102142942\/ccf22\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102142942\/ccf22\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102142942\/ccf22\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102142942\/ccf22\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102142942\/ccf22\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "11",
+        "12"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 4048.3882,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1569"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 11172.46
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Connected Life with Nancy Grace Part 1",
+    "description": "Legal analyst Nancy Grace discusses home security tips, like having a corded phone and turning on the lights.\nShop HSN Connected Life at https:\/\/goo.gl\/sjTNLP\nLearn how to get connected.",
+    "referenceId": "82pEefLETPc",
+    "date_created": "1506710399",
+    "date_modified": "1507565888",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "195",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": "connected_life1",
+    "gemstone_guide": null,
+    "id": "120397669",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Connected-Life-Nancy-Grace-Part-1",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/82pEefLETPc\/maxresdefault.jpg",
+        "uploadDate": 1506710399,
+        "videoId": "82pEefLETPc",
+        "title": "HSN | Connected Life: Nancy Grace Part 1",
+        "description": "Shop HSN Connected Life at https:\/\/goo.gl\/sjTNLP\n\nLearn how to get connected.",
+        "author": "HSN",
+        "mediaDuration": 195,
+        "prettyDuration": "00:03:15",
+        "views": "13",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-16"
+        }
+    },
+    "tvp_profiles": [
+        "16"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 8572.898,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "405"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 442.54514
+}

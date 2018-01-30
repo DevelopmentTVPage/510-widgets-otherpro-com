@@ -1,0 +1,105 @@
+{
+    "title": "Liqui Sew 8-piece No-Sew Kit with Hem Clips.mp4",
+    "description": "Liqui Sew 8-piece No-Sew Kit with Hem Clips",
+    "referenceId": "73d5a518fb22bdb96933d8c2a7549600",
+    "date_created": "1498846403",
+    "date_modified": "1498852517",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "296",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "quicklook",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "102373915",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Liqui-Sew-8-piece-No-Sew-Kit-with-Hem-Clips-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "296",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "296",
+        "prettyDuration": "00:04:56",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/102373915\/da991\/thumb-73d5a518fb22bdb96933d8c2a7549600-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/102373915\/da991\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/102373915\/da991\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373915\/da991\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373915\/da991\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373915\/da991\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373915\/da991\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102373915\/da991\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-01"
+        }
+    },
+    "tvp_profiles": [
+        "2",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 5586.1997,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "248"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 49950.547
+}

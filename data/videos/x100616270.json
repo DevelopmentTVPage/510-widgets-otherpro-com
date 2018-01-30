@@ -1,0 +1,101 @@
+{
+    "title": "ev32 50-count Effervescent Breath Freshener Packets - Spearmint + Regular Strength.mp4",
+    "description": "ev32 50-count Effervescent Breath Freshener Packets - Spearmint + Regular Strength",
+    "referenceId": "05ac0481323f88a3d6c6c7ca7118e961",
+    "date_created": "1498172207",
+    "date_modified": "1498172902",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "279",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "top10faves",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "100616270",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "ev32-50-count-Effervescent-Breath-Freshener-Packets-Spearmint-Regular-Strength-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "279",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "279",
+        "prettyDuration": "00:04:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/100616270\/bd5a0\/thumb-05ac0481323f88a3d6c6c7ca7118e961-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/100616270\/bd5a0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/100616270\/bd5a0\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100616270\/bd5a0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100616270\/bd5a0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100616270\/bd5a0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100616270\/bd5a0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100616270\/bd5a0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "26"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 37.819176,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "218"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 65996.266
+}

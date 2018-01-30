@@ -1,0 +1,61 @@
+{
+    "title": "The Connected Home - Stephanie Duchaine",
+    "description": "Create a smart home with the power of technology - locks, security, light bulbs and more! \nCheck out HSN.com for more: http:\/\/goo.gl\/ieh7M8",
+    "referenceId": "etglua9RmjI",
+    "date_created": "1428610327",
+    "date_modified": "1501858705",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "222",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": "home_electronics",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "91794137",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-The-Connected-Home",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/etglua9RmjI\/hqdefault.jpg",
+        "uploadDate": 1428610327,
+        "videoId": "etglua9RmjI",
+        "title": "HSN | The Connected Home",
+        "description": "Check out HSN.com for more.\nhttp:\/\/goo.gl\/ieh7M8",
+        "author": "HSN",
+        "mediaDuration": 222,
+        "prettyDuration": "00:03:42",
+        "views": "330",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-11"
+        }
+    },
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 1214.183,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1133"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 320.17804
+}

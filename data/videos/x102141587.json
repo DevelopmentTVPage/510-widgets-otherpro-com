@@ -1,0 +1,102 @@
+{
+    "title": "PRAI Pure Prai Lifting Concentrate.mp4",
+    "description": "PRAI Pure Prai Lifting Concentrate",
+    "referenceId": "7d212791240600c66ec549790ec1b72f",
+    "date_created": "1498667421",
+    "date_modified": "1498668715",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "135",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "102141587",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "PRAI-Pure-Prai-Lifting-Concentrate-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "135",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "135",
+        "prettyDuration": "00:02:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/102141587\/70e65\/thumb-7d212791240600c66ec549790ec1b72f-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102141587\/70e65\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102141587\/70e65\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102141587\/70e65\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102141587\/70e65\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102141587\/70e65\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-23"
+        }
+    },
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 33.739315,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "96"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 20816.469
+}

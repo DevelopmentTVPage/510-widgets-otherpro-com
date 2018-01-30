@@ -1,0 +1,60 @@
+{
+    "title": "Melissa McCarthy's Styling Manhattan - Andrea",
+    "description": "Actress and designer Melissa McCarthy provides a spring fashion makeover from her Seven7 line.\n\nShop Melissa McCarthy at HSN: https:\/\/www.hsn.com\/shop\/melissa-mccarthy\/13424",
+    "referenceId": "xozJ93LxCLg",
+    "date_created": "1500417894",
+    "date_modified": "1500556353",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "109",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "CVV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": "fashion_accessories1",
+    "living": null,
+    "category6": "fashion_accessories",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "105457006",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Melissa-McCarthy-Styling-Manhattan-Andrea",
+    "category": null,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "HSN",
+        "hdvFlag": 1,
+        "description": "",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/xozJ93LxCLg\/hqdefault.jpg",
+        "videoId": "xozJ93LxCLg",
+        "mediaDuration": 109,
+        "prettyDuration": "00:01:49",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-08"
+        }
+    },
+    "tvp_profiles": [
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 452.73438,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "283"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 133.89677
+}

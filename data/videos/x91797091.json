@@ -1,0 +1,61 @@
+{
+    "title": "HSN Jeans Shop - Shopping by Style",
+    "description": "The HSN Jeans Shop discusses different styles so you can find your perfect stylish pair of jeans.\n\nShop jeans at HSN: http:\/\/goo.gl\/vPsIDX",
+    "referenceId": "9S_twKLWjeo",
+    "date_created": "1395337193",
+    "date_modified": "1500990863",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "39",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "7",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": "fashion_accessories1",
+    "living": null,
+    "category6": "fashion_accessories",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "91797091",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Jeans-Shop-Style",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/9S_twKLWjeo\/hqdefault.jpg",
+        "uploadDate": 1395337193,
+        "videoId": "9S_twKLWjeo",
+        "title": "HSN | Jeans Shop | Style",
+        "description": ".\nSHOP THE VIDEO\nor http:\/\/goo.gl\/vPsIDX",
+        "author": "HSN",
+        "mediaDuration": 39,
+        "prettyDuration": "00:00:39",
+        "views": "286",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-28"
+        }
+    },
+    "tvp_profiles": [
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 9892.125,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "254"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 127.42428
+}

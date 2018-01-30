@@ -1,0 +1,100 @@
+{
+    "title": "Lanc&ocirc;me Teint Idole Ultra Foundation Stick SPF 21 - 500 Suede W - Auto-Ship&reg;.mp4",
+    "description": "Lanc&ocirc;me Teint Idole Ultra Foundation Stick SPF 21 - 500 Suede W - Auto-Ship&reg",
+    "referenceId": "1182b4b0df93d6250ecffece13c092df",
+    "date_created": "1498780148",
+    "date_modified": "1498781843",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "515",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "102255940",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Lanc-ocirc-me-Teint-Idole-Ultra-Foundation-Stick-SPF-21-500-Suede-W-Auto-Ship-reg-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "515",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "515",
+        "prettyDuration": "00:08:35",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/102255940\/e26bd\/thumb-1182b4b0df93d6250ecffece13c092df-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/102255940\/e26bd\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/102255940\/e26bd\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102255940\/e26bd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102255940\/e26bd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102255940\/e26bd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102255940\/e26bd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102255940\/e26bd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 19926.062,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "134"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 92495.484
+}

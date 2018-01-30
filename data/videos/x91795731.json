@@ -1,0 +1,61 @@
+{
+    "title": "What is WiFi?",
+    "description": "HSN explains what WiFi is, how to get it in your house, and which tech gadgets use WiFi.\nShop electronics at HSN: https:\/\/www.hsn.com\/shop\/electronics\/ec",
+    "referenceId": "G1dpY7acH-E",
+    "date_created": "1398285583",
+    "date_modified": "1501870737",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "47",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "4",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": "home_electronics",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "91795731",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-What-is-WiFi",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/G1dpY7acH-E\/hqdefault.jpg",
+        "uploadDate": 1398285583,
+        "videoId": "G1dpY7acH-E",
+        "title": "HSN | What is WiFi?",
+        "description": "SHOP HSN's INNOVATION EVENT! http:\/\/goo.gl\/IpMYXG",
+        "author": "HSN",
+        "mediaDuration": 47,
+        "prettyDuration": "00:00:47",
+        "views": "2415",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-04"
+        }
+    },
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 929.61426,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "258"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 175.73334
+}

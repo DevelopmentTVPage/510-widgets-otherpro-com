@@ -1,0 +1,101 @@
+{
+    "title": "Professor Amos 64 oz. Shock Soy Outdoor Cleaner Concentrate.mp4",
+    "description": "Professor Amos 64 oz. Shock Soy Outdoor Cleaner Concentrate",
+    "referenceId": "b618e02e706b6f0aee89cc58b898c342",
+    "date_created": "1497545603",
+    "date_modified": "1497545957",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "369",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99050335",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Professor-Amos-64-oz-Shock-Soy-Outdoor-Cleaner-Concentrate-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "369",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "369",
+        "prettyDuration": "00:06:09",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99050335\/89f51\/thumb-b618e02e706b6f0aee89cc58b898c342-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99050335\/89f51\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99050335\/89f51\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99050335\/89f51\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99050335\/89f51\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99050335\/89f51\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99050335\/89f51\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99050335\/89f51\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "27"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 3463.3015,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "164"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 59606.008
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Panasonic Corded and Cordless Phone System with Link2Cell and Digital Answering.mp4",
+    "description": "Panasonic Corded and Cordless Phone System with Link2Cell and Digital Answering",
+    "referenceId": "dca3bd867cdc7389e3060014f4f83e4f",
+    "date_created": "1498246572",
+    "date_modified": "1498247510",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "314",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "top10faves",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "100872870",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Panasonic-Corded-and-Cordless-Phone-System-with-Link2Cell-and-Digital-Answering-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "314",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "314",
+        "prettyDuration": "00:05:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/100872870\/84632\/thumb-dca3bd867cdc7389e3060014f4f83e4f-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/100872870\/84632\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/100872870\/84632\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100872870\/84632\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100872870\/84632\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100872870\/84632\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100872870\/84632\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/100872870\/84632\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-10-30\"},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
+    "tvp_profiles": [
+        "12",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 14741.164,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "193"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 57321.52
+}

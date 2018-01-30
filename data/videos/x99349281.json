@@ -1,0 +1,100 @@
+{
+    "title": "Daily Concepts Your Stretch Wash Cloth.mp4",
+    "description": "Daily Concepts Your Stretch Wash Cloth",
+    "referenceId": "af09e5e8ccc148ca025dd027b49f4251",
+    "date_created": "1497638395",
+    "date_modified": "1497638751",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "435",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99349281",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Daily-Concepts-Your-Stretch-Wash-Cloth-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "435",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "435",
+        "prettyDuration": "00:07:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99349281\/13597\/thumb-af09e5e8ccc148ca025dd027b49f4251-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99349281\/13597\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99349281\/13597\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349281\/13597\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349281\/13597\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349281\/13597\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349281\/13597\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349281\/13597\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 54.083668,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "170"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 28398.895
+}

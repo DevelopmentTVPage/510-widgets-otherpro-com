@@ -1,0 +1,104 @@
+{
+    "title": "NEATO Skins Custom Phone Case with 5 Blank Skins - iPhone&reg; 5.mp4",
+    "description": "NEATO Skins Custom Phone Case with 5 Blank Skins - iPhone&reg; 5",
+    "referenceId": "a2e8469a0e9e66762b4fdf46593ed399",
+    "date_created": "1498600523",
+    "date_modified": "1498601565",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "562",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "101571326",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "NEATO-Skins-Custom-Phone-Case-with-5-Blank-Skins-iPhone-reg-5-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "562",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "562",
+        "prettyDuration": "00:09:22",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/101571326\/c9d35\/thumb-a2e8469a0e9e66762b4fdf46593ed399-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/101571326\/c9d35\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/101571326\/c9d35\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571326\/c9d35\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571326\/c9d35\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571326\/c9d35\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571326\/c9d35\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571326\/c9d35\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-11-26"
+        }
+    },
+    "tvp_profiles": [
+        "8"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 9952.315,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "478"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 10186.166
+}

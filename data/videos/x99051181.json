@@ -1,0 +1,105 @@
+{
+    "title": "Marilyn Miglin Pheromone Perfumes Collectible Set1.mp4",
+    "description": "Marilyn Miglin Pheromone Perfumes Collectible Set1.mp4",
+    "referenceId": "c185ab32c184546991b02d1fb9c20d7b",
+    "date_created": "1497554753",
+    "date_modified": "1497555099",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "611",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99051181",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Marilyn-Miglin-Pheromone-Perfumes-Collectible-Set1-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "611",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "611",
+        "prettyDuration": "00:10:11",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99051181\/b37de\/thumb-c185ab32c184546991b02d1fb9c20d7b-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051181\/b37de\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051181\/b37de\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051181\/b37de\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051181\/b37de\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051181\/b37de\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-17"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-12-17"
+        }
+    },
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 9999,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "123"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 20020.89
+}

@@ -1,0 +1,100 @@
+{
+    "title": "Lanc&ocirc;me Teint Idole Ultra Foundation Stick SPF 21 - 450 Suede N.mp4",
+    "description": "Lanc&ocirc;me Teint Idole Ultra Foundation Stick SPF 21 - 450 Suede N",
+    "referenceId": "25ffe31956fdfeb61bbaba8a9c93df3f",
+    "date_created": "1498780256",
+    "date_modified": "1498781787",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "177",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productinfo",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "102255946",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Lanc-ocirc-me-Teint-Idole-Ultra-Foundation-Stick-SPF-21-450-Suede-N-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "177",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "177",
+        "prettyDuration": "00:02:57",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/102255946\/c78d6\/thumb-25ffe31956fdfeb61bbaba8a9c93df3f-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/102255946\/c78d6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/102255946\/c78d6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102255946\/c78d6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102255946\/c78d6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102255946\/c78d6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102255946\/c78d6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/102255946\/c78d6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 16643.922,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "134"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 60866.03
+}

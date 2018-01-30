@@ -1,0 +1,98 @@
+{
+    "title": "Carol's Daughter Monoi Body Moisturizing Cream-Oil Auto-Ship&reg;.mp4",
+    "description": "Carol's Daughter Monoi Body Moisturizing Cream-Oil Auto-Ship&reg;",
+    "referenceId": "56849c41b3aa5d4cef641898d6a48892",
+    "date_created": "1497658291",
+    "date_modified": "1497658500",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "261",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "top10faves",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99349782",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Carol-s-Daughter-Monoi-Body-Moisturizing-Cream-Oil-Auto-Ship-reg-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "261",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "261",
+        "prettyDuration": "00:04:21",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99349782\/83872\/thumb-56849c41b3aa5d4cef641898d6a48892-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349782\/83872\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349782\/83872\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349782\/83872\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349782\/83872\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99349782\/83872\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 15243.846,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "170"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 41179.67
+}

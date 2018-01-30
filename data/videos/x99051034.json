@@ -1,0 +1,104 @@
+{
+    "title": "Progressive Onion Chopper and Keeper Set.mp4",
+    "description": "Progressive Onion Chopper and Keeper Set",
+    "referenceId": "996eb799c4055add88823b2174a03910",
+    "date_created": "1497554365",
+    "date_modified": "1497554706",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "45",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productinfo",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "99051034",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Progressive-Onion-Chopper-and-Keeper-Set-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "45",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "45",
+        "prettyDuration": "00:00:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/99051034\/4ac83\/thumb-996eb799c4055add88823b2174a03910-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/99051034\/4ac83\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/99051034\/4ac83\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051034\/4ac83\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051034\/4ac83\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051034\/4ac83\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051034\/4ac83\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/99051034\/4ac83\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-04"
+        }
+    },
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 2743.5564,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "210"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 30220.332
+}

@@ -1,0 +1,61 @@
+{
+    "title": "LED Lighting for Your Smart Home",
+    "description": "Innovation expert Steve Greenberg discusses how LED light bulbs can be used in your smart home. Shop HSN Connected Life at https:\/\/goo.gl\/sjTNLP",
+    "referenceId": "Fb7If9UFzUI",
+    "date_created": "1498248214",
+    "date_modified": "1501529187",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "49",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "41",
+    "CVV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": "wellness1",
+    "category6": "wellness",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": "connected_life1",
+    "gemstone_guide": null,
+    "id": "100874612",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Connected-Life-LED-Lighting",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758927\/canvas\/1278\/714\/342716664-021278716.JPG",
+        "uploadDate": 1498248214,
+        "videoId": "Fb7If9UFzUI",
+        "title": "HSN | Connected Life: LED Lighting",
+        "description": "Shop HSN Connected Life at https:\/\/goo.gl\/sjTNLP\n\nLearn how to get connected.",
+        "author": "HSN",
+        "mediaDuration": 49,
+        "prettyDuration": "00:00:49",
+        "views": "16",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-08"
+        }
+    },
+    "tvp_profiles": [
+        "12"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 9700.161,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1133"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 9008.742
+}

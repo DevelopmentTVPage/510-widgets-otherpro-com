@@ -1,0 +1,100 @@
+{
+    "title": "Roberto by RFM Giardino Crystal-Accented Goldtone Floral Wreath Pendant with 17-12 Chain.mp4",
+    "description": "Roberto by RFM Giardino Crystal-Accented Goldtone Floral Wreath Pendant with 17-12 Chain",
+    "referenceId": "872816be6a0e8c536c04f6285d7a9ad2",
+    "date_created": "1500507555",
+    "date_modified": "1500508057",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "411",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "productpresentation",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "106021659",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Roberto-by-RFM-Giardino-Crystal-Accented-Goldtone-Floral-Wreath-Pendant-with-17-12-Chain-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "411",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "411",
+        "prettyDuration": "00:06:51",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/106021659\/0b881\/thumb-872816be6a0e8c536c04f6285d7a9ad2-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/106021659\/0b881\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/106021659\/0b881\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/106021659\/0b881\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/106021659\/0b881\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/106021659\/0b881\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/106021659\/0b881\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/106021659\/0b881\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-10-20\"}}}",
+    "tvp_profiles": [
+        "20"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 844.0944,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "154"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 40553.13
+}

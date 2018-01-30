@@ -1,0 +1,62 @@
+{
+    "title": "The Monday Night Show with Adam Freeman 09.18.2017 - 07 PM",
+    "description": "Adam Freeman shares innovative items for you and your household on the Monday Night Show.  Prices shown on the previously recorded video may not represent the current price. View hsn.com to view the current selling price.",
+    "referenceId": "ZqcE9vYb69g",
+    "date_created": "1506104156",
+    "date_modified": "1506521456",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "3600",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "9",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": "monday_night_show",
+    "video_type": null,
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "119182421",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-The-Monday-Night-Show-with-Adam-Freeman-09-18-2017-07-PM",
+    "category": null,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "HSNtv",
+        "hdvFlag": 1,
+        "description": "Don't miss a moment of the fun every Monday night from 7pm to 9pm ET only on HSN and HSN.com.  http:\/\/goo.gl\/DjNZaA #n# Prices shown on the previously recorded video may not represent the current price. View hsn.com to view the current selling price.\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ZqcE9vYb69g\/maxresdefault.jpg",
+        "videoId": "ZqcE9vYb69g",
+        "mediaDuration": 3600,
+        "prettyDuration": "01:00:00",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-11-29"
+        }
+    },
+    "tvp_profiles": [
+        "32",
+        "33",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 3985.461,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "719"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 338.05383
+}

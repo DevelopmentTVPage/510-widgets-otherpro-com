@@ -1,0 +1,100 @@
+{
+    "title": "Benefit Cosmetics Air Patrol.mp4",
+    "description": "Benefit Cosmetics Air Patrol",
+    "referenceId": "e8ee2c65a0b5a8f4811bdb7f600cc871",
+    "date_created": "1498600537",
+    "date_modified": "1498601590",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "285",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": "top10faves",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "101571328",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Benefit-Cosmetics-Air-Patrol-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "285",
+            "width": 724,
+            "height": 408
+        },
+        "mediaDuration": "285",
+        "prettyDuration": "00:04:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758927\/101571328\/a23c3\/thumb-e8ee2c65a0b5a8f4811bdb7f600cc871-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758927\/101571328\/a23c3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758927\/101571328\/a23c3\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571328\/a23c3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571328\/a23c3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571328\/a23c3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 724,
+                "height": 408
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571328\/a23c3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758927\/101571328\/a23c3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 45.719025,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "134"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 6964.968
+}

@@ -1,0 +1,64 @@
+{
+    "title": "My Little Steamer - Joy Mangano",
+    "description": "Joy Mangano's My Little Steamer takes the hassle out of ironing your clothes. It's simple, compact, and easy to use. \n\nShop Joy on HSN.com: https:\/\/www.hsn.com\/shop\/joy-mangano\/192",
+    "referenceId": "wzDd7kx24M4",
+    "date_created": "1504792017",
+    "date_modified": "1505399416",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "39",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "502",
+    "CVV_VI": "10",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": "home_electronics",
+    "series": null,
+    "video_type": null,
+    "storefront": "joy_mangano_key_item_inspiration",
+    "gemstone_guide": null,
+    "id": "117031547",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Joy-Mangano-My-Little-Steamer",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/wzDd7kx24M4\/maxresdefault.jpg",
+        "uploadDate": 1504792017,
+        "videoId": "wzDd7kx24M4",
+        "title": "Joy Mangano My Little Steamer",
+        "description": "Joy Mangano My Little Steamer",
+        "author": "HSNtv",
+        "mediaDuration": 39,
+        "prettyDuration": "00:00:39",
+        "views": "3",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-01"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-01-10"
+        }
+    },
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 9025.855,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "655"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 9718.298
+}

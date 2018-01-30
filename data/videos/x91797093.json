@@ -1,0 +1,61 @@
+{
+    "title": "HSN Jeans Shop - Finding Your Fit",
+    "description": "Find your perfect fit for your body type, whether you're slender, curvy or plus size.\nShop all jeans at the HSN Jean Shop: http:\/\/goo.gl\/vPsIDX",
+    "referenceId": "Dbzs0N40r8M",
+    "date_created": "1395337193",
+    "date_modified": "1500989754",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "40",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "16",
+    "CVV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": "fashion_accessories1",
+    "living": null,
+    "category6": "fashion_accessories",
+    "series": null,
+    "video_type": "how_to_inspiration",
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "91797093",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Jeans-Shop-Fit",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Dbzs0N40r8M\/hqdefault.jpg",
+        "uploadDate": 1395337193,
+        "videoId": "Dbzs0N40r8M",
+        "title": "HSN | Jeans Shop | Fit",
+        "description": ".\nSHOP THE VIDEO\nor http:\/\/goo.gl\/vPsIDX",
+        "author": "HSN",
+        "mediaDuration": 40,
+        "prettyDuration": "00:00:40",
+        "views": "783",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-08"
+        }
+    },
+    "tvp_profiles": [
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 1007.3719,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "478"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 219.90515
+}

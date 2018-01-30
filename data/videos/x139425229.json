@@ -1,0 +1,70 @@
+{
+    "title": "HSN Live",
+    "description": "",
+    "referenceId": "TVP_LIVE_4937160",
+    "date_created": "1517286718",
+    "date_modified": "1517286742",
+    "tags": null,
+    "sourceId": "7",
+    "VIDEO_LENGTH": null,
+    "duration": null,
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": null,
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "139425229",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Live",
+    "category": null,
+    "settings": {
+        "destinations": [
+            {
+                "ip": "52.39.180.182",
+                "port": "1935",
+                "url": "rtmp:\/\/52.39.180.182\/staging-f45622b2535c1bc34a32e808b0882a65"
+            },
+            {
+                "ip": "52.39.106.62",
+                "port": "1935",
+                "url": "rtmp:\/\/52.39.106.62\/staging-f45622b2535c1bc34a32e808b0882a65"
+            }
+        ],
+        "provider": "TVP_LIVE",
+        "providerId": "4937160",
+        "environment": "staging",
+        "liveId": "f45622b2535c1bc34a32e808b0882a65",
+        "live_status": "LIVE_STARTED",
+        "live_quality": "1080",
+        "quality": null
+    },
+    "asset": {
+        "type": "mp4",
+        "type_stream": "live",
+        "sources": [],
+        "hlsUrl": "https:\/\/3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com\/out\/v1\/5c9c608326454c948a62c7f3967e0252\/index.m3u8",
+        "dashUrl": "https:\/\/3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com\/out\/v1\/423e51d4683c4da79eca071cbffaf082\/index.mpd",
+        "live_status": "LIVE_STARTED",
+        "live_quality": "1080",
+        "status_url": "\/\/stage.tvpage.com\/api\/videos\/live\/status\/1758927\/139425229",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1758927\/canvas\/1280\/719\/259859678-011280720.jpg"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null
+}
