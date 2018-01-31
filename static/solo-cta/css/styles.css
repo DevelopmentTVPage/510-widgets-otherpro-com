@@ -1,0 +1,10 @@
+/* implementation specific */
+.click-to-action-text {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  max-width: 50%;
+  color: white;
+  font-weight: 600;
+  display: none !important;
+}
