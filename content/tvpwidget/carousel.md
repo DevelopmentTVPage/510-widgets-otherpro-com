@@ -38,5 +38,14 @@
     "layout": "bootstrap",
     "channelTitle": "Demo Channel",
     "channelType": "Standard",
-    "type": "carousel"
+    "type": "carousel",
+    "advertising": {
+        "enabled": false,
+        "adServerUrl": null,
+        "adTimeout": 2000,
+        "maxAds": 100,
+        "adInterval": 0
+    },
+    "preload": false,
+    "autoplay": true
 }
