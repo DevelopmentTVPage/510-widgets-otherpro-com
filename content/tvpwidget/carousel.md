@@ -10,8 +10,8 @@
             "video_item_border_style": "none",
             "video_item_border_color": "rgba(0, 91, 203, 1)",
             "video_item_font_size": "14",
-            "video_item_font_weight": "bold",
-            "video_item_text_align": "center"
+            "video_item_font_weight": "normal",
+            "video_item_text_align": "left"
         },
         ".video-item-image-icon": {
             "video_item_image_icon_background_color": "rgba(0, 0, 0, 1)",
@@ -38,14 +38,5 @@
     "layout": "bootstrap",
     "channelTitle": "Demo Channel",
     "channelType": "Standard",
-    "type": "carousel",
-    "advertising": {
-        "enabled": false,
-        "adServerUrl": null,
-        "adTimeout": 2000,
-        "maxAds": 100,
-        "adInterval": 0
-    },
-    "preload": false,
-    "autoplay": true
+    "type": "carousel"
 }
