@@ -1,9 +1,9 @@
 {
-    "title": "HSN_Sports_Video.mp4",
+    "title": "HSN_Sports",
     "description": "",
     "referenceId": "7d76f3b3b555abbe659c67d933e1ee0e",
     "date_created": "1517377415",
-    "date_modified": "1517378263",
+    "date_modified": "1517379341",
     "tags": "",
     "sourceId": "6",
     "VIDEO_LENGTH": "LONG",
@@ -44,6 +44,8 @@
         "type": "mp4",
         "dashUrl": "\/\/v-dev.tvpage.com\/1758927\/139541389\/7d2aa\/media.mpd",
         "hlsUrl": "\/\/v-dev.tvpage.com\/1758927\/139541389\/7d2aa\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
         "sources": [
             {
                 "file": "\/\/v-dev.tvpage.com\/1758927\/139541389\/7d2aa\/1080p_media.mp4",
