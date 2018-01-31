@@ -3,11 +3,11 @@
     "data": [
         {
             "id": "139425486",
-            "title": "Livestream",
+            "title": "Digital Television Antenna Livestream",
             "date_created": "1517293614",
             "loginId": "1758927",
-            "tags": null,
-            "description": "",
+            "tags": "",
+            "description": "Digital Television Antenna for local channels",
             "asset": {
                 "type": "mp4",
                 "type_stream": "live",
@@ -23,6 +23,138 @@
             },
             "parentId": "139425228",
             "url": "\/live-stream\/livestream\/139425228-139425486"
+        },
+        {
+            "id": "138687670",
+            "title": "HSN | Smart Home featuring Google 01.22.2018 - 11 PM",
+            "date_created": "1516691840",
+            "loginId": "1758927",
+            "tags": "",
+            "description": "Discover gifts of the season from electronics, get up on all the new techy products for the family..\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/xCc-xe-fhxA\/maxresdefault.jpg",
+                "uploadDate": 1516691840,
+                "videoId": "xCc-xe-fhxA",
+                "title": "HSN | Smart Home featuring Google 01.22.2018 - 11 PM",
+                "description": "Discover gifts of the season from electronics, get up on all the new techy products for the family..\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+                "author": "HSNtv",
+                "mediaDuration": 3600,
+                "prettyDuration": "01:00:00",
+                "views": "23"
+            },
+            "parentId": "139425228",
+            "url": "\/live-stream\/hsn-smart-home-featuring-google-01-22-2018-11-pm\/139425228-138687670"
+        },
+        {
+            "id": "138687629",
+            "title": "HSN | HSN Today: Electronic Connection 01.23.2018 - 08 AM",
+            "date_created": "1516723218",
+            "loginId": "1758927",
+            "tags": "",
+            "description": "Discover electronics find items and brands during this hour keeping your interests with technology. There will be all different brands with in this hour. Stay tuned for demonstrations and how to use these products, great values and quality products. This hour will show you demostrations and how to use the products in your daily life.\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/RYm4y8Y5Om4\/maxresdefault.jpg",
+                "uploadDate": 1516723218,
+                "videoId": "RYm4y8Y5Om4",
+                "title": "HSN | HSN Today: Electronic Connection 01.23.2018 - 08 AM",
+                "description": "Discover electronics find items and brands during this hour keeping your interests with technology. There will be all different brands with in this hour. Stay tuned for demonstrations and how to use these products, great values and quality products. This hour will show you demostrations and how to use the products in your daily life.\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+                "author": "HSNtv",
+                "mediaDuration": 3600,
+                "prettyDuration": "01:00:00",
+                "views": "26"
+            },
+            "parentId": "139425228",
+            "url": "\/live-stream\/hsn-hsn-today-electronic-connection-01-23-2018-08-am\/139425228-138687629"
+        },
+        {
+            "id": "138687669",
+            "title": "HSN | Smart Home featuring Google 01.22.2018 - 11 PM",
+            "date_created": "1516690664",
+            "loginId": "1758927",
+            "tags": "",
+            "description": "Discover gifts of the season from electronics, get up on all the new techy products for the family..\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/8qL_cw01b8w\/maxresdefault.jpg",
+                "uploadDate": 1516690664,
+                "videoId": "8qL_cw01b8w",
+                "title": "HSN | Smart Home featuring Google 01.22.2018 - 11 PM",
+                "description": "Discover gifts of the season from electronics, get up on all the new techy products for the family..\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+                "author": "HSNtv",
+                "mediaDuration": 3600,
+                "prettyDuration": "01:00:00",
+                "views": "50"
+            },
+            "parentId": "139425228",
+            "url": "\/live-stream\/hsn-smart-home-featuring-google-01-22-2018-11-pm\/139425228-138687669"
+        },
+        {
+            "id": "115901616",
+            "title": "HSN | Football Fan Shop Season Kick Off 09.03.2017 - 01 PM",
+            "date_created": "1504468337",
+            "loginId": "1758927",
+            "tags": "",
+            "description": "Score big with a large variety of logo adorned sports apparel, collectibles and tailgating products. Get close to the game and be part of the action from the sidelines with hard to find memorabilia, accessories and more, fit for the true sports fans.\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Huy27k82dmc\/maxresdefault.jpg",
+                "uploadDate": 1504468337,
+                "videoId": "Huy27k82dmc",
+                "title": "HSN | Football Fan Shop Season Kick Off 09.03.2017 - 01 PM",
+                "description": "Score big with a large variety of logo adorned sports apparel, collectibles and tailgating products. Get close to the game and be part of the action from the sidelines with hard to find memorabilia, accessories and more, fit for the true sports fans.\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+                "author": "HSNtv",
+                "mediaDuration": 3599,
+                "prettyDuration": "00:59:59",
+                "views": "31"
+            },
+            "parentId": "139425228",
+            "url": "\/live-stream\/hsn-football-fan-shop-season-kick-off-09-03-2017-01-pm\/139425228-115901616"
+        },
+        {
+            "id": "138687656",
+            "title": "HSN | Smart Home featuring Google 01.23.2018 - 01 AM",
+            "date_created": "1516697797",
+            "loginId": "1758927",
+            "tags": "",
+            "description": "Discover gifts of the season from electronics, get up on all the new techy products for the family..\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/31nBuxUwCu0\/maxresdefault.jpg",
+                "uploadDate": 1516697797,
+                "videoId": "31nBuxUwCu0",
+                "title": "HSN | Smart Home featuring Google 01.23.2018 - 01 AM",
+                "description": "Discover gifts of the season from electronics, get up on all the new techy products for the family..\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+                "author": "HSNtv",
+                "mediaDuration": 3600,
+                "prettyDuration": "01:00:00",
+                "views": "27"
+            },
+            "parentId": "139425228",
+            "url": "\/live-stream\/hsn-smart-home-featuring-google-01-23-2018-01-am\/139425228-138687656"
+        },
+        {
+            "id": "138953697",
+            "title": "HSN | Electronic Connection 01.23.2018 - 10 PM",
+            "date_created": "1516773032",
+            "loginId": "1758927",
+            "tags": "",
+            "description": "Discover electronics find items and brands during this hour keeping interests with new technology... There will be all different brands with in this hour, stay tuned for demonstrations and how to use these products, great values and quality products.\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/81owccQ2dTk\/maxresdefault.jpg",
+                "uploadDate": 1516773032,
+                "videoId": "81owccQ2dTk",
+                "title": "HSN | Electronic Connection 01.23.2018 - 10 PM",
+                "description": "Discover electronics find items and brands during this hour keeping interests with new technology... There will be all different brands with in this hour, stay tuned for demonstrations and how to use these products, great values and quality products.\r Prices shown on the previously recorded video may not represent the current price.  View hsn.com to view the current selling price.SHOP NOW http:\/\/www.hsn.com",
+                "author": "HSNtv",
+                "mediaDuration": 3599,
+                "prettyDuration": "00:59:59",
+                "views": "43"
+            },
+            "parentId": "139425228",
+            "url": "\/live-stream\/hsn-electronic-connection-01-23-2018-10-pm\/139425228-138953697"
         },
         {
             "id": "139408724",

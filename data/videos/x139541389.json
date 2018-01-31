@@ -1,0 +1,94 @@
+{
+    "title": "HSN_Sports_Video.mp4",
+    "description": "",
+    "referenceId": "7d76f3b3b555abbe659c67d933e1ee0e",
+    "date_created": "1517377415",
+    "date_modified": "1517378263",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "339",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": null,
+    "storefront": null,
+    "gemstone_guide": null,
+    "id": "139541389",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "HSN-Sports-Video-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "339",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "339",
+        "prettyDuration": "00:05:39",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758927\/139541389\/7d2aa\/thumb-7d76f3b3b555abbe659c67d933e1ee0e-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v-dev.tvpage.com\/1758927\/139541389\/7d2aa\/media.mpd",
+        "hlsUrl": "\/\/v-dev.tvpage.com\/1758927\/139541389\/7d2aa\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758927\/139541389\/7d2aa\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758927\/139541389\/7d2aa\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758927\/139541389\/7d2aa\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758927\/139541389\/7d2aa\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758927\/139541389\/7d2aa\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": ""
+}
