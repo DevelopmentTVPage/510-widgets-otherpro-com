@@ -18,9 +18,10 @@
             "video_item_image_icon_border_radius": "0%"
         },
         ".slick-dots li button": {
-            "carousel_dot_background_color": "rgba(0, 0, 0, 1)",
-            "carousel_dot_hover_background_color": "rgba(255, 0, 0, 1)",
-            "carousel_dot_hover_border_color": "rgba(255, 0, 0, 1)"
+            "carousel_dot_background_color": "rgba(0, 0, 0, 0.76)",
+            "carousel_dot_hover_background_color": "rgba(0, 0, 0, 1)",
+            "carousel_dot_hover_border_color": "rgba(0, 0, 0, 1)",
+            "carousel_dot_border_color": "rgba(26, 26, 26, 0.51)"
         },
         ".carousel-arrow": {
             "carousel_arrow_background_color": "rgba(0, 0, 0, 1)",
@@ -37,14 +38,5 @@
     "layout": "bootstrap",
     "channelTitle": "Demo Channel",
     "channelType": "Standard",
-    "type": "carousel",
-    "advertising": {
-        "enabled": false,
-        "adServerUrl": null,
-        "adTimeout": 2000,
-        "maxAds": 100,
-        "adInterval": 0
-    },
-    "preload": false,
-    "autoplay": true
+    "type": "carousel"
 }
