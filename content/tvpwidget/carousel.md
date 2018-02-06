@@ -29,14 +29,24 @@
         },
         ".widget-title": {
             "widget_title_html": "Recommended Videos",
-            "widget_title_font_size": "26",
-            "widget_title_text_align": "left",
-            "widget_title_color": "rgba(0, 0, 0, 1)",
-            "widget_title_font_weight": "normal"
+            "widget_title_font_size": "32",
+            "widget_title_text_align": "center",
+            "widget_title_color": "rgba(191, 72, 72, 1)",
+            "widget_title_font_weight": "normal",
+            "widget_title_background_color": "rgba(30, 83, 39, 1)"
         }
     },
     "layout": "bootstrap",
     "channelTitle": "Demo Channel",
     "channelType": "Standard",
-    "type": "carousel"
+    "type": "carousel",
+    "advertising": {
+        "enabled": false,
+        "adServerUrl": null,
+        "adTimeout": 2000,
+        "maxAds": 100,
+        "adInterval": 0
+    },
+    "preload": false,
+    "autoplay": true
 }
