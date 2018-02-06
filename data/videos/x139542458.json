@@ -1,13 +1,13 @@
 {
-    "title": "Eyeliner Hacks",
+    "title": "Yoga Poses For Beginners - Where To Start",
     "description": "",
-    "referenceId": "3c3c98d54eca98be4b67d2d9335ed30a",
-    "date_created": "1517900484",
-    "date_modified": "1517901198",
+    "referenceId": "496cd65c246396625baf9f91f89c154c",
+    "date_created": "1517937550",
+    "date_modified": "1517937890",
     "tags": "",
     "sourceId": "6",
     "VIDEO_LENGTH": "LONG",
-    "duration": "1139",
+    "duration": "389",
     "status": "approved",
     "visibility": "1",
     "VV_VI": null,
@@ -21,10 +21,10 @@
     "video_type": null,
     "storefront": null,
     "gemstone_guide": null,
-    "id": "139542457",
+    "id": "139542458",
     "loginId": "1758927",
     "entityType": "1",
-    "titleTextEncoded": "Eyeliner-Hacks",
+    "titleTextEncoded": "Yoga-Poses-For-Beginners-Where-To-Start",
     "category": "",
     "settings": "",
     "asset": {
@@ -34,49 +34,47 @@
             "emailAddress": ""
         },
         "videoMeta": {
-            "duration": "1139",
+            "duration": "389",
             "width": 1920,
             "height": 1080
         },
-        "mediaDuration": "1139",
-        "prettyDuration": "00:18:59",
-        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1758927\/canvas\/1280\/719\/312843051-011280720.jpg",
+        "mediaDuration": "389",
+        "prettyDuration": "00:06:29",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758927\/139542458\/e55f9\/thumb-496cd65c246396625baf9f91f89c154c-00002.jpg",
         "type": "mp4",
-        "dashUrl": "\/\/v-dev.tvpage.com\/1758927\/139542457\/56692\/media.mpd",
-        "hlsUrl": "\/\/v-dev.tvpage.com\/1758927\/139542457\/56692\/media.m3u8",
         "uploadAsset": false,
         "quality": "",
         "sources": [
             {
-                "file": "\/\/v-dev.tvpage.com\/1758927\/139542457\/56692\/1080p_media.mp4",
+                "file": "\/\/v-dev.tvpage.com\/1758927\/139542458\/e55f9\/1080p_media.mp4",
                 "quality": "1080p",
                 "mime": "video\/mp4",
                 "width": 1920,
                 "height": 1080
             },
             {
-                "file": "\/\/v-dev.tvpage.com\/1758927\/139542457\/56692\/720p_media.mp4",
+                "file": "\/\/v-dev.tvpage.com\/1758927\/139542458\/e55f9\/720p_media.mp4",
                 "quality": "720p",
                 "mime": "video\/mp4",
                 "width": 1280,
                 "height": 720
             },
             {
-                "file": "\/\/v-dev.tvpage.com\/1758927\/139542457\/56692\/480p_media.mp4",
+                "file": "\/\/v-dev.tvpage.com\/1758927\/139542458\/e55f9\/480p_media.mp4",
                 "quality": "480p",
                 "mime": "video\/mp4",
                 "width": 854,
                 "height": 480
             },
             {
-                "file": "\/\/v-dev.tvpage.com\/1758927\/139542457\/56692\/360p_media.mp4",
+                "file": "\/\/v-dev.tvpage.com\/1758927\/139542458\/e55f9\/360p_media.mp4",
                 "quality": "360p",
                 "mime": "video\/mp4",
                 "width": 640,
                 "height": 360
             },
             {
-                "file": "\/\/v-dev.tvpage.com\/1758927\/139542457\/56692\/240p_media.mp4",
+                "file": "\/\/v-dev.tvpage.com\/1758927\/139542458\/e55f9\/240p_media.mp4",
                 "quality": "240p",
                 "mime": "video\/mp4",
                 "width": 320,
