@@ -14,8 +14,8 @@
             "video_item_text_align": "center"
         },
         ".video-item-image-icon": {
-            "video_item_image_icon_background_color": "rgba(0, 45, 228, 1)",
-            "video_item_image_icon_border_radius": "50%"
+            "video_item_image_icon_background_color": "rgba(0, 0, 0, 1)",
+            "video_item_image_icon_border_radius": "0%"
         },
         ".slick-dots li button": {
             "carousel_dot_background_color": "rgba(0, 0, 0, 0.76)",
@@ -28,24 +28,15 @@
             "carousel_arrow_hover_background_color": "rgba(0, 0, 0, 1)"
         },
         ".widget-title": {
-            "widget_title_html": "Latest Videos",
-            "widget_title_font_size": "32",
+            "widget_title_html": "Recommended Videos",
+            "widget_title_font_size": "26",
             "widget_title_text_align": "left",
-            "widget_title_color": "rgba(255, 0, 0, 1)",
+            "widget_title_color": "rgba(0, 0, 0, 1)",
             "widget_title_font_weight": "normal"
         }
     },
     "layout": "bootstrap",
     "channelTitle": "Demo Channel",
     "channelType": "Standard",
-    "type": "carousel",
-    "advertising": {
-        "enabled": false,
-        "adServerUrl": null,
-        "adTimeout": 2000,
-        "maxAds": 100,
-        "adInterval": 0
-    },
-    "preload": false,
-    "autoplay": true
+    "type": "carousel"
 }
