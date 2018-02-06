@@ -29,7 +29,7 @@
         },
         ".widget-title": {
             "widget_title_html": "Recommended Videos",
-            "widget_title_font_size": "54",
+            "widget_title_font_size": "32",
             "widget_title_text_align": "center",
             "widget_title_color": "rgba(191, 72, 72, 1)",
             "widget_title_font_weight": "normal",
