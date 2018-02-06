@@ -2,24 +2,6 @@
     "pageNumber": 0,
     "data": [
         {
-            "id": "139425486",
-            "title": "ANTOP Digital Television Antenna Livestream",
-            "date_created": "1517293614",
-            "loginId": "1758927",
-            "tags": "",
-            "description": "Digital Television Antenna for local channels",
-            "asset": {
-                "type": "mp4",
-                "type_stream": "live",
-                "live_status": "LIVE_NOT_FOUND",
-                "status_url": "\/\/stage.tvpage.com\/api\/videos\/live\/status\/1758927\/139425486",
-                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1758927\/canvas\/1280\/719\/314062263-011280720.jpg",
-                "sources": []
-            },
-            "parentId": "139425228",
-            "url": "\/live-stream\/livestream\/139425228-139425486"
-        },
-        {
             "id": "138687670",
             "title": "HSN | Smart Home featuring Google 01.22.2018 - 11 PM",
             "date_created": "1516691840",
